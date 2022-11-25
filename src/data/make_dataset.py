@@ -216,6 +216,45 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
                 
     imports_re_exports.drop(columns='country_pop', inplace=True)
 
+    # process indicator prices
+    x = dfs['indicator_prices']
+    x.columns = x.iloc[2, :]
+    x = x.iloc[3:424, :]
+    x = x.dropna(how='all')
+    x.columns = x.columns.fillna('calendar_month').str.replace('\\n', '', regex=True).str.replace(' ', '_', regex=True).str.lower()
+    x = x.melt(id_vars='calendar_month', var_name='indicator_name', value_name='indicator_price_cents_per_lb')
+    x['indicator_price_cents_per_lb'] = x['indicator_price_cents_per_lb'].astype('float', errors = 'ignore')
+    x['indicator_price_dollars_per_lb'] = x['indicator_price_cents_per_lb'] / 100
+    year_rows = x['calendar_month'].astype('str').str.match(r'[0-9]{4}')
+    x['calendar_year'] = np.where(year_rows, x['calendar_month'], np.NaN)
+    x['calendar_year'] = x['calendar_year'].fillna(method='ffill')
+    avg_annual = x[year_rows].drop(columns='calendar_month')
+    x = x[~year_rows]
+    x = x.merge(avg_annual, how = 'left', on = ['calendar_year', 'indicator_name'], suffixes=['', '_ann'])
+    x = x[['calendar_year','calendar_month','indicator_name','indicator_price_cents_per_lb','indicator_price_dollars_per_lb', 'indicator_price_cents_per_lb_ann','indicator_price_dollars_per_lb_ann']]
+    dfs['indicator_prices'] = x
+
+    # process prices paid to grower data
+    x = dfs['prices_paid_to_growers']
+    x.columns = x.iloc[2, :]
+    x = x.iloc[3:76, :]
+    x = x.dropna(how='all')
+    x.rename(columns={'Calendar years' : 'country'}, inplace=True)
+    x = x.melt(id_vars='country', var_name = 'calendar_year', value_name='price_paid_cents_per_lb')
+    x['country'] = x['country'].str.strip()
+    x['price_paid_cents_per_lb'] = x['price_paid_cents_per_lb'].astype('float', errors='ignore')
+    x['price_paid_dollars_per_lb'] = x['price_paid_cents_per_lb'] / 100
+    categories = ['Colombian Milds', 'Other Milds', 'Brazilian Naturals', 'Robustas']
+    totals = ['Total', '']
+    x['indicator_name'] = np.where(x['country'].isin(categories), x['country'], np.NaN)
+    x['indicator_name'] = x['indicator_name'].ffill()
+    cat_rows = x.iloc[:,0].isin(categories)
+    tot_rows = x.iloc[:,0].isin(totals)
+    x = x.loc[~(cat_rows|tot_rows)]
+    x['indicator_name'] = x['indicator_name'].str.replace(' ', '_').str.lower()
+    x = x[['country', 'indicator_name', 'calendar_year', 'price_paid_cents_per_lb', 'price_paid_dollars_per_lb']]
+    dfs['prices_paid_to_growers'] = x
+
     # Write Interim Files
     for k in dfs.keys():
         dfs[k].to_csv(f'{interim_filepath}/{k}.csv', index=False)
