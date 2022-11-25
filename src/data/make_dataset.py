@@ -231,7 +231,8 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
     avg_annual = x[year_rows].drop(columns='calendar_month')
     x = x[~year_rows]
     x = x.merge(avg_annual, how = 'left', on = ['calendar_year', 'indicator_name'], suffixes=['', '_ann'])
-    x = x[['calendar_year','calendar_month','indicator_name','indicator_price_cents_per_lb','indicator_price_dollars_per_lb', 'indicator_price_cents_per_lb_ann','indicator_price_dollars_per_lb_ann']]
+    x = x[['calendar_year','calendar_month','indicator_name','indicator_price_cents_per_lb',
+    'indicator_price_dollars_per_lb', 'indicator_price_cents_per_lb_ann','indicator_price_dollars_per_lb_ann']]
     dfs['indicator_prices'] = x
 
     # process prices paid to grower data
