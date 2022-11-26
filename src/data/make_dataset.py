@@ -459,6 +459,32 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
         ]
     dfs['prices_paid_to_growers'] = x
 
+    # Combine Indicator and Grower data
+    annual_indicators = \
+        dfs['indicator_prices'] \
+        .loc[
+            lambda x: x.calendar_month == 'January',
+            [
+                'calendar_year',
+                'indicator_name',
+                'indicator_price_cents_per_lb_ann',
+                'indicator_price_dollars_per_lb_ann'
+            ]
+        ]
+
+    annual_indicators['calendar_year'] = annual_indicators['calendar_year'].astype('int64')
+
+    grower_vs_indicator = dfs['prices_paid_to_growers']
+    grower_vs_indicator['calendar_year'] = grower_vs_indicator['calendar_year'].astype('int64')
+
+    grower_vs_indicator = \
+        grower_vs_indicator \
+        .merge(
+            annual_indicators,
+            how='left',
+            on=['indicator_name', 'calendar_year']
+        )
+
     # Write Interim Files
     for k in dfs.keys():
         dfs[k].to_csv(f'{interim_filepath}/{k}.csv', index=False)
@@ -469,6 +495,7 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
     producer_cropyear.to_csv(f'{output_filepath}/producer_cropyear.csv', index=False)
     imports_re_exports.to_csv(f'{output_filepath}/imports_re_exports.csv', index=False)
     exports_calendar_year.to_csv(f'{output_filepath}/exports_calyear.csv', index=False)
+    grower_vs_indicator.to_csv(f'{output_filepath}/grower_vs_indicator.csv', index=False)
 
 
 if __name__ == '__main__':
