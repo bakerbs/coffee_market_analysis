@@ -13,3 +13,5 @@ openpyxl
 jupyter
 matplotlib
 numpy
+myst-parser
+rst-to-myst
