@@ -485,6 +485,9 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
             on=['indicator_name', 'calendar_year']
         )
 
+    # Create a helper file for Tableau waterfall
+    tableau_waterfall = pd.DataFrame({'point': [x for x in range(1, 7)]})
+
     # Write Interim Files
     for k in dfs.keys():
         dfs[k].to_csv(f'{interim_filepath}/{k}.csv', index=False)
@@ -496,6 +499,7 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
     imports_re_exports.to_csv(f'{output_filepath}/imports_re_exports.csv', index=False)
     exports_calendar_year.to_csv(f'{output_filepath}/exports_calyear.csv', index=False)
     grower_vs_indicator.to_csv(f'{output_filepath}/grower_vs_indicator.csv', index=False)
+    tableau_waterfall.to_csv(f'{output_filepath}/tableau_waterfall.csv', index=False)
 
 
 if __name__ == '__main__':
