@@ -492,7 +492,7 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
         )
 
     # Create a helper file for Tableau waterfall
-    tableau_waterfall = pd.DataFrame({'point': [x for x in range(1, 7)]})
+    tableau_waterfall = pd.DataFrame({'point': [x for x in range(1, 21)]})
 
     # Write Interim Files
     for k in dfs.keys():
