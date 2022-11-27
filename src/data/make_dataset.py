@@ -38,7 +38,7 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
         dfs[source_files.loc[i, 'variable_type']] = \
             pd.read_excel(source_files.loc[i, 'file_path'])
 
-    # load external population data from World Bank
+    # load external population data from UN
     population = \
         pd.read_csv(f'{external_filepath}/WPP2022_Demographic_Indicators_Medium.csv',
                     usecols=['Location', 'Time', 'TPopulation1Jan', 'TPopulation1July'])
@@ -46,6 +46,8 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
                                             'Time': 'year',
                                             'TPopulation1Jan': 'population_boy',
                                             'TPopulation1July': 'population_mid'})
+    population['population_boy'] = population['population_boy'] * 1000
+    population['population_mid'] = population['population_mid'] * 1000
 
     # aggregate country-level data for Yugoslavia and Netherlands Antilles
     yugoslavia_countries = ['Serbia', 'Croatia', 'Slovenia', 'Bosnia and Herzegovina', 'Macedonia']
