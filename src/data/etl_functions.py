@@ -237,6 +237,26 @@ def close_stock_calc(df, scale):
     )
 
 
+# calculate assumed imports needed to take closing stock to 0
+def producer_imports(df, scale):
+    """ Rollforward Closing Stock as opening stock plus production, less consumption and exports
+        df: pandas DataFrame
+        scale: scale for calculation (1k_bags, kg, lb)
+    """
+    raw_close = \
+        np.round(
+                df[f'openstock_{scale}']
+                + df[f'production_{scale}']
+                - df[f'consumption_{scale}']
+                - df[f'exports_{scale}'],
+                2
+        )
+
+    return (
+        np.where(raw_close < 0, 0 - raw_close, 0)
+    )
+
+
 # closing stock based on time-shifted opening stocks
 def close_stock_shift(df, scale):
     """ Calculate Closing Stock as next year's opening stock

@@ -131,10 +131,14 @@ def main(input_filepath, external_filepath, interim_filepath, output_filepath):
             on=['country', 'harvest_group', 'crop_year', 'crop_year_beg', 'crop_year_end']
             )
 
-    # Calculate closing stock and stock adjustment between EOY (t-1) and BOY (t)
+    # Calculate closing stock, assumed imports, and stock adjustment between EOY (t-1) and BOY (t)
     producer_cropyear['closestock_1k_bags'] = f.close_stock_calc(producer_cropyear, '1k_bags')
     producer_cropyear['closestock_kg'] = f.close_stock_calc(producer_cropyear, 'kg')
     producer_cropyear['closestock_lb'] = f.close_stock_calc(producer_cropyear, 'lb')
+
+    producer_cropyear['imports_1k_bags'] = f.producer_imports(producer_cropyear, '1k_bags')
+    producer_cropyear['imports_kg'] = f.producer_imports(producer_cropyear, 'kg')
+    producer_cropyear['imports_lb'] = f.producer_imports(producer_cropyear, 'lb')
 
     producer_cropyear.sort_values(['country', 'crop_year_beg'], inplace=True)
     producer_cropyear['stock_adj_1k_bags'] = f.stock_adj(producer_cropyear, '1k_bags')
