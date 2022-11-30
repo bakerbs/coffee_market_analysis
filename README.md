@@ -1,7 +1,7 @@
 Coffee Market Analysis
 ==============================
 
-Data manipulation scripts to support Tableau analysis of coffee market data from the International Coffee Organization.
+Data manipulation scripts to support my <a target="_blank" href="https://public.tableau.com/views/GlobalCoffeeProduction/Coffee?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau vizualization</a> of coffee market data from the <a target="_blank" href="https://ico.org">International Coffee Organization.</a>
 
 Project Organization
 ------------
@@ -19,7 +19,7 @@ Project Organization
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── references         <- Data reference document from the ICO, links to data sources.
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
