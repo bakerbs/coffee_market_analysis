@@ -1,0 +1,2881 @@
+region,country,ico_member,calendar_year,re_exports_1k_bags,re_exports_kg,re_exports_lb
+Africa,Algeria,non-member,1990.0,19.35,1161000.0,2559566.86396785
+Africa,Botswana,non-member,1990.0,0.26,15600.0,34392.112900860004
+Africa,Burkina Faso,non-member,1990.0,0.07,4200.0,9259.41501177
+Africa,Cabo Verde,non-member,1990.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1990.0,0.12,7200.0,15873.28287732
+Africa,Djibouti,non-member,1990.0,2.69,161400.0,355826.09116659
+Africa,Egypt,non-member,1990.0,9.64,578400.0,1275153.7244780401
+Africa,Eswatini,non-member,1990.0,0.0,0.0,0.0
+Africa,Gambia,non-member,1990.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1990.0,3.25,195000.0,429901.41126075
+Africa,Lesotho,non-member,1990.0,0.0,0.0,0.0
+Africa,Mali,non-member,1990.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,1990.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1990.0,0.0,0.0,0.0
+Africa,Mozambique,non-member,1990.0,0.33,19800.0,43651.52791263
+Africa,Namibia,non-member,1990.0,0.0,0.0,0.0
+Africa,Niger,non-member,1990.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,1990.0,0.12,7200.0,15873.28287732
+Africa,Senegal,non-member,1990.0,0.01,600.0,1322.77357311
+Africa,Seychelles,non-member,1990.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1990.0,0.5,30000.0,66138.6786555
+Africa,South Africa,non-member,1990.0,10.28,616800.0,1359811.23315708
+Africa,Sudan,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1990.0,3.09,185400.0,408737.03409099
+Asia & Oceania,Armenia,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1990.0,110.38,6622800.0,14600774.69998818
+Asia & Oceania,Azerbaijan,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1990.0,0.27,16200.0,35714.88647397
+Asia & Oceania,Bangladesh,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1990.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Cambodia,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,1990.0,30.98,1858800.0,4097952.52949478
+Asia & Oceania,Hong Kong,non-member,1990.0,16.08,964799.9999999999,2127019.90556088
+Asia & Oceania,Macao,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1990.0,12.3,738000.0,1627011.4949253001
+Asia & Oceania,Fiji,non-member,1990.0,1.59,95400.0,210320.99812449
+Asia & Oceania,Iran (Islamic Republic of),non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1990.0,0.67,40200.0,88625.82939837
+Asia & Oceania,Jordan,non-member,1990.0,0.67,40200.0,88625.82939837
+Asia & Oceania,Kazakhstan,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,1990.0,3.43,205800.0,453711.33557673
+Asia & Oceania,Kyrgyzstan,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1990.0,3.0,180000.0,396832.071933
+Asia & Oceania,Malaysia,non-member,1990.0,28.54,1712400.0,3775195.77765594
+Asia & Oceania,Mongolia,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1990.0,0.62,37200.0,82011.96153282
+Asia & Oceania,Oman,non-member,1990.0,0.88,52800.0,116404.07443368
+Asia & Oceania,Pakistan,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1990.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Republic of Korea,non-member,1990.0,53.42,3205200.0,7066256.42755362
+Asia & Oceania,Samoa,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1990.0,15.6,936000.0,2063526.7740516
+Asia & Oceania,Singapore,non-member,1990.0,1142.11,68526600.0,151075292.55846623
+Asia & Oceania,Solomon Islands,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1990.0,0.67,40200.0,88625.82939837
+Asia & Oceania,Taiwan,non-member,1990.0,23.84,1430400.0,3153492.19829424
+Asia & Oceania,Tonga,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1990.0,0.09,5400.0,11904.96215799
+Asia & Oceania,United Arab Emirates,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1990.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1990.0,0.61,36600.0,80689.18795971
+Caribbean,Anguilla,non-member,1990.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1990.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1990.0,7.27,436200.0,961656.38765097
+Caribbean,Bahamas,non-member,1990.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1990.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1990.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,1990.0,0.16,9600.0,21164.37716976
+Caribbean,Netherlands Antilles (former),non-member,1990.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1990.0,5.27,316200.0,697101.67302897
+Caribbean,Saint Kitts and Nevis,non-member,1990.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1990.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1990.0,0.01,600.0,1322.77357311
+Central America & Mexico,Belize,non-member,1990.0,0.05,3000.0,6613.86786555
+Central America & Mexico,Bermuda,non-member,1990.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1990.0,0.0,0.0,0.0
+Europe,Albania,non-member,1990.0,0.0,0.0,0.0
+Europe,Belarus,non-member,1990.0,0.0,0.0,0.0
+Europe,Bosnia and Herzegovina,non-member,1990.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1990.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1990.0,0.0,0.0,0.0
+Europe,Iceland,non-member,1990.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1990.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1990.0,0.0,0.0,0.0
+Europe,Republic of Moldova,non-member,1990.0,0.0,0.0,0.0
+Europe,Serbia,non-member,1990.0,0.0,0.0,0.0
+Europe,Ukraine,non-member,1990.0,0.0,0.0,0.0
+Europe,USSR,non-member,1990.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1990.0,1.41,84600.0,186511.07380851
+North America,Canada,non-member,1990.0,279.4,16764000.0,36958293.6326934
+South America,Argentina,non-member,1990.0,14.81,888600.0,1959027.66177591
+South America,Chile,non-member,1990.0,4.56,273600.0,603184.74933816
+South America,Suriname,non-member,1990.0,0.0,0.0,0.0
+South America,Uruguay,non-member,1990.0,0.24,14400.0,31746.56575464
+Africa,Algeria,non-member,1991.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1991.0,0.25,15000.0,33069.33932775
+Africa,Burkina Faso,non-member,1991.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1991.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1991.0,0.66,39600.0,87303.05582526
+Africa,Djibouti,non-member,1991.0,17.95,1077000.0,2374378.56373245
+Africa,Egypt,non-member,1991.0,0.7,42000.0,92594.1501177
+Africa,Eswatini,non-member,1991.0,0.02,1200.0,2645.54714622
+Africa,Gambia,non-member,1991.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1991.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,1991.0,0.0,0.0,0.0
+Africa,Mali,non-member,1991.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,1991.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1991.0,0.33,19800.0,43651.52791263
+Africa,Mozambique,non-member,1991.0,0.05,3000.0,6613.86786555
+Africa,Namibia,non-member,1991.0,0.0,0.0,0.0
+Africa,Niger,non-member,1991.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,1991.0,0.08,4800.0,10582.18858488
+Africa,Senegal,non-member,1991.0,0.0,0.0,0.0
+Africa,Seychelles,non-member,1991.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1991.0,0.53,31800.0,70106.99937483
+Africa,South Africa,non-member,1991.0,28.37,1702200.0,3752708.62691307
+Africa,Sudan,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1991.0,4.85,291000.0,641545.18295835
+Asia & Oceania,Armenia,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1991.0,143.22,8593200.0,18944763.11408142
+Asia & Oceania,Azerbaijan,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1991.0,0.94,56400.0,124340.71587234
+Asia & Oceania,Bangladesh,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1991.0,0.01,600.0,1322.77357311
+Asia & Oceania,Cambodia,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,1991.0,7.73,463800.0,1022503.97201403
+Asia & Oceania,Hong Kong,non-member,1991.0,27.25,1635000.0,3604557.98672475
+Asia & Oceania,Macao,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1991.0,11.15,669000.0,1474892.53401765
+Asia & Oceania,Fiji,non-member,1991.0,1.14,68400.0,150796.18733454
+Asia & Oceania,Iran (Islamic Republic of),non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1991.0,8.88,532800.0,1174622.93292168
+Asia & Oceania,Jordan,non-member,1991.0,3.96,237600.0,523818.33495156
+Asia & Oceania,Kazakhstan,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,1991.0,0.83,49800.0,109790.20656813
+Asia & Oceania,Kyrgyzstan,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1991.0,19.83,1189800.0,2623059.99547713
+Asia & Oceania,Malaysia,non-member,1991.0,28.95,1737000.0,3829429.4941534502
+Asia & Oceania,Mongolia,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1991.0,0.98,58800.0,129631.81016478
+Asia & Oceania,Oman,non-member,1991.0,0.64,38400.0,84657.50867904
+Asia & Oceania,Pakistan,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1991.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Republic of Korea,non-member,1991.0,64.23,3853800.0000000005,8496174.660085531
+Asia & Oceania,Samoa,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1991.0,1.6,96000.0,211643.7716976
+Asia & Oceania,Singapore,non-member,1991.0,1449.98,86998800.0,191799522.55380377
+Asia & Oceania,Solomon Islands,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1991.0,6.0,360000.0,793664.143866
+Asia & Oceania,Taiwan,non-member,1991.0,43.11,2586600.0,5702476.87367721
+Asia & Oceania,Tonga,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1991.0,1.45,87000.0,191802.16810095
+Asia & Oceania,United Arab Emirates,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1991.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1991.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,1991.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1991.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1991.0,0.83,49800.0,109790.20656813
+Caribbean,Bahamas,non-member,1991.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1991.0,0.01,600.0,1322.77357311
+Caribbean,Dominica,non-member,1991.0,0.04,2400.0,5291.09429244
+Caribbean,Grenada,non-member,1991.0,0.05,3000.0,6613.86786555
+Caribbean,Netherlands Antilles (former),non-member,1991.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1991.0,6.25,375000.0,826733.48319375
+Caribbean,Saint Kitts and Nevis,non-member,1991.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1991.0,0.05,3000.0,6613.86786555
+Caribbean,Saint Vincent & the Grenadines,non-member,1991.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1991.0,0.03,1800.0,3968.32071933
+Central America & Mexico,Bermuda,non-member,1991.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1991.0,0.0,0.0,0.0
+Europe,Albania,non-member,1991.0,0.0,0.0,0.0
+Europe,Belarus,non-member,1991.0,0.0,0.0,0.0
+Europe,Bosnia and Herzegovina,non-member,1991.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1991.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1991.0,0.0,0.0,0.0
+Europe,Iceland,non-member,1991.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1991.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1991.0,0.0,0.0,0.0
+Europe,Republic of Moldova,non-member,1991.0,0.0,0.0,0.0
+Europe,Serbia,non-member,1991.0,0.0,0.0,0.0
+Europe,Ukraine,non-member,1991.0,0.0,0.0,0.0
+Europe,USSR,non-member,1991.0,37.82,2269200.0,5002729.65350202
+Europe,Yugoslavia SFR,non-member,1991.0,0.3,18000.0,39683.2071933
+North America,Canada,non-member,1991.0,288.1,17286000.0,38109106.6412991
+South America,Argentina,non-member,1991.0,3.02,181200.0,399477.61907922
+South America,Chile,non-member,1991.0,6.15,369000.0,813505.7474626501
+South America,Suriname,non-member,1991.0,0.0,0.0,0.0
+South America,Uruguay,non-member,1991.0,0.21,12600.0,27778.24503531
+Africa,Algeria,non-member,1992.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1992.0,0.31,18600.0,41005.98076641
+Africa,Burkina Faso,non-member,1992.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1992.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1992.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,1992.0,3.37,202200.0,445774.69413807
+Africa,Egypt,non-member,1992.0,0.16,9600.0,21164.37716976
+Africa,Eswatini,non-member,1992.0,0.79,47400.0,104499.11227569
+Africa,Gambia,non-member,1992.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1992.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,1992.0,0.0,0.0,0.0
+Africa,Mali,non-member,1992.0,0.17,10200.0,22487.15074287
+Africa,Mauritius,non-member,1992.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1992.0,0.65,39000.0,85980.28225215
+Africa,Mozambique,non-member,1992.0,0.0,0.0,0.0
+Africa,Namibia,non-member,1992.0,0.0,0.0,0.0
+Africa,Niger,non-member,1992.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,1992.0,0.02,1200.0,2645.54714622
+Africa,Senegal,non-member,1992.0,0.09,5400.0,11904.96215799
+Africa,Seychelles,non-member,1992.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1992.0,0.14,8400.0,18518.83002354
+Africa,South Africa,non-member,1992.0,58.46,3507600.0,7732934.30840106
+Africa,Sudan,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1992.0,1.36,81600.0,179897.20594296
+Asia & Oceania,Armenia,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1992.0,80.03,4801800.0,10586156.90559933
+Asia & Oceania,Azerbaijan,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1992.0,1.66,99600.0,219580.41313626
+Asia & Oceania,Bangladesh,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1992.0,0.01,600.0,1322.77357311
+Asia & Oceania,Cambodia,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,1992.0,1.12,67200.0,148150.64018832
+Asia & Oceania,Hong Kong,non-member,1992.0,55.94,3356400.0,7399595.36797734
+Asia & Oceania,Macao,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1992.0,9.3,558000.0,1230179.4229923
+Asia & Oceania,Fiji,non-member,1992.0,0.44,26400.0,58202.03721684
+Asia & Oceania,Iran (Islamic Republic of),non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1992.0,119.12,7147200.0,15756878.80288632
+Asia & Oceania,Jordan,non-member,1992.0,11.97,718200.0,1583359.9670126701
+Asia & Oceania,Kazakhstan,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,1992.0,3.22,193200.0,425933.09054142
+Asia & Oceania,Kyrgyzstan,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1992.0,37.68,2260800.0,4984210.82347848
+Asia & Oceania,Malaysia,non-member,1992.0,29.83,1789800.0,3945833.56858713
+Asia & Oceania,Mongolia,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1992.0,3.09,185400.0,408737.03409099
+Asia & Oceania,Oman,non-member,1992.0,1.04,62400.0,137568.45160344001
+Asia & Oceania,Pakistan,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1992.0,0.01,600.0,1322.77357311
+Asia & Oceania,Republic of Korea,non-member,1992.0,62.05,3723000.0,8207810.02114755
+Asia & Oceania,Samoa,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1992.0,2.31,138600.0,305560.69538841
+Asia & Oceania,Singapore,non-member,1992.0,1320.27,79216200.0,174641826.53699398
+Asia & Oceania,Solomon Islands,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1992.0,1.97,118200.0,260586.39390267
+Asia & Oceania,Taiwan,non-member,1992.0,198.67,11920200.0,26279542.57697637
+Asia & Oceania,Tonga,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1992.0,6.28,376800.0,830701.80391308
+Asia & Oceania,United Arab Emirates,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1992.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1992.0,0.86,51600.0,113758.52728746
+Caribbean,Anguilla,non-member,1992.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1992.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1992.0,0.25,15000.0,33069.33932775
+Caribbean,Bahamas,non-member,1992.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1992.0,0.01,600.0,1322.77357311
+Caribbean,Dominica,non-member,1992.0,0.07,4200.0,9259.41501177
+Caribbean,Grenada,non-member,1992.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1992.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1992.0,6.82,409200.0,902131.5768610201
+Caribbean,Saint Kitts and Nevis,non-member,1992.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1992.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1992.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1992.0,0.03,1800.0,3968.32071933
+Central America & Mexico,Bermuda,non-member,1992.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1992.0,0.0,0.0,0.0
+Europe,Albania,non-member,1992.0,0.0,0.0,0.0
+Europe,Belarus,non-member,1992.0,0.0,0.0,0.0
+Europe,Bosnia and Herzegovina,non-member,1992.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1992.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1992.0,0.0,0.0,0.0
+Europe,Iceland,non-member,1992.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1992.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1992.0,8.57,514200.0,1133616.95215527
+Europe,Republic of Moldova,non-member,1992.0,0.16,9600.0,21164.37716976
+Europe,Serbia,non-member,1992.0,4.32,259200.0,571438.18358352
+Europe,Ukraine,non-member,1992.0,5.0,300000.0,661386.786555
+Europe,USSR,non-member,1992.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1992.0,0.0,0.0,0.0
+North America,Canada,non-member,1992.0,355.2,21312000.0,46984917.3168672
+South America,Argentina,non-member,1992.0,1.11,66600.0,146827.86661521
+South America,Chile,non-member,1992.0,11.86,711600.0,1568809.45770846
+South America,Suriname,non-member,1992.0,0.0,0.0,0.0
+South America,Uruguay,non-member,1992.0,0.16,9600.0,21164.37716976
+Africa,Algeria,non-member,1993.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1993.0,0.05,3000.0,6613.86786555
+Africa,Burkina Faso,non-member,1993.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1993.0,0.3,18000.0,39683.2071933
+Africa,Comoros,non-member,1993.0,0.42,25200.0,55556.49007062
+Africa,Djibouti,non-member,1993.0,4.84,290400.0,640222.40938524
+Africa,Egypt,non-member,1993.0,0.1,6000.0,13227.7357311
+Africa,Eswatini,non-member,1993.0,1.44,86400.0,190479.39452784
+Africa,Gambia,non-member,1993.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1993.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,1993.0,0.0,0.0,0.0
+Africa,Mali,non-member,1993.0,0.17,10200.0,22487.15074287
+Africa,Mauritius,non-member,1993.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1993.0,3.75,225000.0,496040.08991625
+Africa,Mozambique,non-member,1993.0,1.96,117600.0,259263.62032956
+Africa,Namibia,non-member,1993.0,0.0,0.0,0.0
+Africa,Niger,non-member,1993.0,4.47,268200.0,591279.78718017
+Africa,Sao Tome and Principe,non-member,1993.0,0.08,4800.0,10582.18858488
+Africa,Senegal,non-member,1993.0,0.04,2400.0,5291.09429244
+Africa,Seychelles,non-member,1993.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1993.0,0.8,48000.0,105821.8858488
+Africa,South Africa,non-member,1993.0,33.97,2038200.0,4493461.82785467
+Africa,Sudan,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1993.0,8.33,499800.0,1101870.38640063
+Asia & Oceania,Armenia,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1993.0,45.87,2752200.0,6067562.37985557
+Asia & Oceania,Azerbaijan,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1993.0,1.5,90000.0,198416.0359665
+Asia & Oceania,Bangladesh,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Cambodia,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,1993.0,13.45,807000.0,1779130.45583295
+Asia & Oceania,Hong Kong,non-member,1993.0,53.36,3201600.0,7058319.78611496
+Asia & Oceania,Macao,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1993.0,17.23,1033800.0,2279138.86646853
+Asia & Oceania,Fiji,non-member,1993.0,0.67,40200.0,88625.82939837
+Asia & Oceania,Iran (Islamic Republic of),non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1993.0,126.85,7611000.0,16779382.77490035
+Asia & Oceania,Jordan,non-member,1993.0,5.22,313200.0,690487.80516342
+Asia & Oceania,Kazakhstan,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,1993.0,1.23,73800.0,162701.14949253
+Asia & Oceania,Kyrgyzstan,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1993.0,14.88,892800.0,1968287.07678768
+Asia & Oceania,Malaysia,non-member,1993.0,26.92,1615200.0,3560906.45881212
+Asia & Oceania,Mongolia,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1993.0,1.08,64800.0,142859.54589588
+Asia & Oceania,Oman,non-member,1993.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Pakistan,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Republic of Korea,non-member,1993.0,104.35,6261000.0,13803142.23540285
+Asia & Oceania,Samoa,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1993.0,5.41,324600.0,715620.50305251
+Asia & Oceania,Singapore,non-member,1993.0,1490.45,89427000.0,197152787.20417994
+Asia & Oceania,Solomon Islands,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1993.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Taiwan,non-member,1993.0,211.76,12705600.0,28011053.18417736
+Asia & Oceania,Tonga,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1993.0,1.03,61800.0,136245.67803033
+Asia & Oceania,United Arab Emirates,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1993.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1993.0,0.7,42000.0,92594.1501177
+Caribbean,Anguilla,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1993.0,0.06,3600.0,7936.64143866
+Caribbean,Grenada,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1993.0,0.07,4200.0,9259.41501177
+Caribbean,Puerto Rico,non-member,1993.0,3.46,207600.0,457679.65629606
+Caribbean,Saint Kitts and Nevis,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1993.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1993.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1993.0,0.02,1200.0,2645.54714622
+Central America & Mexico,Bermuda,non-member,1993.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1993.0,0.0,0.0,0.0
+Europe,Albania,non-member,1993.0,1.32,79200.0,174606.11165052
+Europe,Belarus,non-member,1993.0,0.0,0.0,0.0
+Europe,Bosnia and Herzegovina,non-member,1993.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1993.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1993.0,0.0,0.0,0.0
+Europe,Iceland,non-member,1993.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1993.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1993.0,1.84,110400.0,243390.33745224
+Europe,Republic of Moldova,non-member,1993.0,0.12,7200.0,15873.28287732
+Europe,Serbia,non-member,1993.0,0.0,0.0,0.0
+Europe,Ukraine,non-member,1993.0,5.0,300000.0,661386.786555
+Europe,USSR,non-member,1993.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1993.0,0.0,0.0,0.0
+North America,Canada,non-member,1993.0,372.36,22341600.0,49254796.76832396
+South America,Argentina,non-member,1993.0,2.94,176400.0,388895.43049434
+South America,Chile,non-member,1993.0,40.5,2430000.0,5357232.9710955
+South America,Suriname,non-member,1993.0,1.38,82800.0,182542.75308918
+South America,Uruguay,non-member,1993.0,0.01,600.0,1322.77357311
+Africa,Algeria,non-member,1994.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1994.0,0.02,1200.0,2645.54714622
+Africa,Burkina Faso,non-member,1994.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1994.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1994.0,2.01,120599.99999999999,265877.48819511
+Africa,Djibouti,non-member,1994.0,2.46,147600.0,325402.29898506
+Africa,Egypt,non-member,1994.0,0.09,5400.0,11904.96215799
+Africa,Eswatini,non-member,1994.0,0.02,1200.0,2645.54714622
+Africa,Gambia,non-member,1994.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1994.0,0.81,48600.0,107144.65942191001
+Africa,Lesotho,non-member,1994.0,0.0,0.0,0.0
+Africa,Mali,non-member,1994.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,1994.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1994.0,26.45,1587000.0,3498736.10087595
+Africa,Mozambique,non-member,1994.0,0.04,2400.0,5291.09429244
+Africa,Namibia,non-member,1994.0,0.0,0.0,0.0
+Africa,Niger,non-member,1994.0,0.78,46800.0,103176.33870258
+Africa,Sao Tome and Principe,non-member,1994.0,0.12,7200.0,15873.28287732
+Africa,Senegal,non-member,1994.0,0.0,0.0,0.0
+Africa,Seychelles,non-member,1994.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1994.0,0.62,37200.0,82011.96153282
+Africa,South Africa,non-member,1994.0,37.61,2256600.0,4974951.40846671
+Africa,Sudan,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1994.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Armenia,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1994.0,59.25,3555000.0,7837433.42067675
+Asia & Oceania,Azerbaijan,non-member,1994.0,0.89,53400.0,117726.84800679
+Asia & Oceania,Bahrain,non-member,1994.0,0.59,35400.0,78043.64081349
+Asia & Oceania,Bangladesh,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Cambodia,non-member,1994.0,0.43,25800.0,56879.26364373
+Asia & Oceania,China (Mainland),non-member,1994.0,23.46,1407600.0,3103226.80251606
+Asia & Oceania,Hong Kong,non-member,1994.0,94.34,5660400.0,12479045.88871974
+Asia & Oceania,Macao,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1994.0,7.95,477000.0,1051604.99062245
+Asia & Oceania,Fiji,non-member,1994.0,0.29,17400.0,38360.43362019
+Asia & Oceania,Iran (Islamic Republic of),non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1994.0,106.51,6390600.0,14088861.32719461
+Asia & Oceania,Jordan,non-member,1994.0,7.05,423000.0,932555.36904255
+Asia & Oceania,Kazakhstan,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,1994.0,1.06,63600.0,140213.99874966
+Asia & Oceania,Kyrgyzstan,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1994.0,14.88,892800.0,1968287.07678768
+Asia & Oceania,Malaysia,non-member,1994.0,40.43,2425800.0,5347973.55608373
+Asia & Oceania,Mongolia,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1994.0,7.72,463200.0,1021181.19844092
+Asia & Oceania,Oman,non-member,1994.0,1.31,78600.0,173283.33807741
+Asia & Oceania,Pakistan,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1994.0,0.14,8400.0,18518.83002354
+Asia & Oceania,Republic of Korea,non-member,1994.0,89.8,5388000.0,11878506.6865278
+Asia & Oceania,Samoa,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1994.0,7.66,459600.0,1013244.55700226
+Asia & Oceania,Singapore,non-member,1994.0,2786.22,167173200.0,368553818.4870544
+Asia & Oceania,Solomon Islands,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1994.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Taiwan,non-member,1994.0,104.52,6271200.0,13825629.38614572
+Asia & Oceania,Tonga,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1994.0,2.66,159600.0,351857.77044726
+Asia & Oceania,United Arab Emirates,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1994.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1994.0,0.38,22800.0,50265.39577818
+Caribbean,Anguilla,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1994.0,0.06,3600.0,7936.64143866
+Caribbean,Grenada,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1994.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1994.0,2.73,163800.0,361117.18545903
+Caribbean,Saint Kitts and Nevis,non-member,1994.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1994.0,0.02,1200.0,2645.54714622
+Caribbean,Saint Vincent & the Grenadines,non-member,1994.0,0.01,600.0,1322.77357311
+Central America & Mexico,Belize,non-member,1994.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,1994.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1994.0,0.0,0.0,0.0
+Europe,Albania,non-member,1994.0,1.98,118800.0,261909.16747578
+Europe,Belarus,non-member,1994.0,0.0,0.0,0.0
+Europe,Bosnia and Herzegovina,non-member,1994.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1994.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1994.0,0.05,3000.0,6613.86786555
+Europe,Iceland,non-member,1994.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1994.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1994.0,0.03,1800.0,3968.32071933
+Europe,Republic of Moldova,non-member,1994.0,0.36,21600.0,47619.84863196
+Europe,Serbia,non-member,1994.0,0.0,0.0,0.0
+Europe,Ukraine,non-member,1994.0,29.01,1740600.0,3837366.13559211
+Europe,USSR,non-member,1994.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1994.0,0.0,0.0,0.0
+North America,Canada,non-member,1994.0,420.01,25200600.0,55557812.84419311
+South America,Argentina,non-member,1994.0,1.25,75000.0,165346.69663875
+South America,Chile,non-member,1994.0,61.19,3671400.0,8094051.49386009
+South America,Suriname,non-member,1994.0,0.04,2400.0,5291.09429244
+South America,Uruguay,non-member,1994.0,0.0,0.0,0.0
+Africa,Algeria,non-member,1995.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1995.0,0.0,0.0,0.0
+Africa,Burkina Faso,non-member,1995.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1995.0,0.01,600.0,1322.77357311
+Africa,Comoros,non-member,1995.0,0.12,7200.0,15873.28287732
+Africa,Djibouti,non-member,1995.0,2.11,126600.0,279105.22392621
+Africa,Egypt,non-member,1995.0,1.08,64800.0,142859.54589588
+Africa,Eswatini,non-member,1995.0,3.67,220200.0,485457.90133137
+Africa,Gambia,non-member,1995.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1995.0,2.32,139200.0,306883.46896152
+Africa,Lesotho,non-member,1995.0,0.0,0.0,0.0
+Africa,Mali,non-member,1995.0,0.43,25800.0,56879.26364373
+Africa,Mauritius,non-member,1995.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1995.0,34.68,2080800.0,4587378.75154548
+Africa,Mozambique,non-member,1995.0,1.7,102000.0,224871.5074287
+Africa,Namibia,non-member,1995.0,0.0,0.0,0.0
+Africa,Niger,non-member,1995.0,0.31,18600.0,41005.98076641
+Africa,Sao Tome and Principe,non-member,1995.0,0.48,28800.0,63493.13150928
+Africa,Senegal,non-member,1995.0,1.0,60000.0,132277.357311
+Africa,Seychelles,non-member,1995.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1995.0,1.85,111000.0,244713.11102535
+Africa,South Africa,non-member,1995.0,32.84,1970400.0,4343988.41409324
+Africa,Sudan,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1995.0,59.0,3540000.0,7804364.081349
+Asia & Oceania,Azerbaijan,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1995.0,1.0,60000.0,132277.357311
+Asia & Oceania,Bangladesh,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1995.0,0.25,15000.0,33069.33932775
+Asia & Oceania,Cambodia,non-member,1995.0,0.33,19800.0,43651.52791263
+Asia & Oceania,China (Mainland),non-member,1995.0,15.04,902400.0,1989451.45395744
+Asia & Oceania,Hong Kong,non-member,1995.0,22.56,1353600.0,2984177.18093616
+Asia & Oceania,Macao,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1995.0,19.62,1177200.0,2595281.75044182
+Asia & Oceania,Fiji,non-member,1995.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Iran (Islamic Republic of),non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1995.0,83.08,4984800.0,10989602.84539788
+Asia & Oceania,Jordan,non-member,1995.0,31.71,1902600.0,4194515.00033181
+Asia & Oceania,Kazakhstan,non-member,1995.0,0.13,7800.0,17196.056450430002
+Asia & Oceania,Kuwait,non-member,1995.0,0.27,16200.0,35714.88647397
+Asia & Oceania,Kyrgyzstan,non-member,1995.0,0.12,7200.0,15873.28287732
+Asia & Oceania,Lebanon,non-member,1995.0,3.97,238200.0,525141.10852467
+Asia & Oceania,Malaysia,non-member,1995.0,95.9,5754000.0,12685398.5661249
+Asia & Oceania,Mongolia,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1995.0,9.11,546600.0,1205046.72510321
+Asia & Oceania,Oman,non-member,1995.0,0.19,11400.0,25132.69788909
+Asia & Oceania,Pakistan,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1995.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Republic of Korea,non-member,1995.0,94.27,5656200.0,12469786.47370797
+Asia & Oceania,Samoa,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1995.0,2.66,159600.0,351857.77044726
+Asia & Oceania,Singapore,non-member,1995.0,1861.81,111708600.0,246275306.61519292
+Asia & Oceania,Solomon Islands,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1995.0,1.09,65400.0,144182.31946899
+Asia & Oceania,Taiwan,non-member,1995.0,14.92,895200.0,1973578.17108012
+Asia & Oceania,Tonga,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1995.0,2.33,139800.0,308206.24253463
+Asia & Oceania,United Arab Emirates,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1995.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1995.0,0.61,36600.0,80689.18795971
+Caribbean,Anguilla,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1995.0,0.08,4800.0,10582.18858488
+Caribbean,Barbados,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1995.0,0.06,3600.0,7936.64143866
+Caribbean,Grenada,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1995.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1995.0,1.91,114600.0,252649.75246401
+Caribbean,Saint Kitts and Nevis,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1995.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1995.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1995.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,1995.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1995.0,0.0,0.0,0.0
+Europe,Albania,non-member,1995.0,2.0,120000.0,264554.714622
+Europe,Belarus,non-member,1995.0,0.01,600.0,1322.77357311
+Europe,Bosnia and Herzegovina,non-member,1995.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1995.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1995.0,0.09,5400.0,11904.96215799
+Europe,Iceland,non-member,1995.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1995.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1995.0,0.02,1200.0,2645.54714622
+Europe,Republic of Moldova,non-member,1995.0,1.45,87000.0,191802.16810095
+Europe,Serbia,non-member,1995.0,0.0,0.0,0.0
+Europe,Ukraine,non-member,1995.0,5.98,358800.0,791018.59671978
+Europe,USSR,non-member,1995.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1995.0,0.0,0.0,0.0
+North America,Canada,non-member,1995.0,401.14,24068400.0,53061739.11173454
+South America,Argentina,non-member,1995.0,68.0,4080000.0,8994860.297148
+South America,Chile,non-member,1995.0,62.9,3774000.0,8320245.7748619
+South America,Suriname,non-member,1995.0,0.0,0.0,0.0
+South America,Uruguay,non-member,1995.0,0.0,0.0,0.0
+Africa,Algeria,non-member,1996.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1996.0,0.02,1200.0,2645.54714622
+Africa,Burkina Faso,non-member,1996.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1996.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1996.0,0.1,6000.0,13227.7357311
+Africa,Djibouti,non-member,1996.0,2.77,166200.0,366408.27975147
+Africa,Egypt,non-member,1996.0,3.63,217800.0,480166.80703893
+Africa,Eswatini,non-member,1996.0,0.01,600.0,1322.77357311
+Africa,Gambia,non-member,1996.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1996.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,1996.0,0.0,0.0,0.0
+Africa,Mali,non-member,1996.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,1996.0,0.0,0.0,0.0
+Africa,Morocco,non-member,1996.0,57.18,3430800.0,7563619.29104298
+Africa,Mozambique,non-member,1996.0,0.3,18000.0,39683.2071933
+Africa,Namibia,non-member,1996.0,0.0,0.0,0.0
+Africa,Niger,non-member,1996.0,0.62,37200.0,82011.96153282
+Africa,Sao Tome and Principe,non-member,1996.0,0.24,14400.0,31746.56575464
+Africa,Senegal,non-member,1996.0,0.0,0.0,0.0
+Africa,Seychelles,non-member,1996.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1996.0,0.04,2400.0,5291.09429244
+Africa,South Africa,non-member,1996.0,29.99,1799400.0,3966997.94575689
+Africa,Sudan,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,1996.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Armenia,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,1996.0,83.78,5026800.0,11082196.99551558
+Asia & Oceania,Azerbaijan,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1996.0,0.93,55800.0,123017.94229923
+Asia & Oceania,Bangladesh,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1996.0,0.01,600.0,1322.77357311
+Asia & Oceania,Cambodia,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,1996.0,4.74,284400.0,626994.67365414
+Asia & Oceania,Hong Kong,non-member,1996.0,15.12,907200.0,2000033.64254232
+Asia & Oceania,Macao,non-member,1996.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Dubai,non-member,1996.0,28.94,1736400.0,3828106.72058034
+Asia & Oceania,Fiji,non-member,1996.0,0.84,50400.0,111112.98014124
+Asia & Oceania,Iran (Islamic Republic of),non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1996.0,57.66,3459600.0,7627112.42255226
+Asia & Oceania,Jordan,non-member,1996.0,10.58,634800.0,1399494.44035038
+Asia & Oceania,Kazakhstan,non-member,1996.0,0.32,19200.0,42328.75433952
+Asia & Oceania,Kuwait,non-member,1996.0,2.09,125400.0,276459.67677999
+Asia & Oceania,Kyrgyzstan,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1996.0,3.97,238200.0,525141.10852467
+Asia & Oceania,Malaysia,non-member,1996.0,124.03,7441800.0,16406360.627283331
+Asia & Oceania,Mongolia,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1996.0,1.21,72600.0,160055.60234631
+Asia & Oceania,Oman,non-member,1996.0,0.68,40800.0,89948.60297148
+Asia & Oceania,Pakistan,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1996.0,0.01,600.0,1322.77357311
+Asia & Oceania,Republic of Korea,non-member,1996.0,70.9,4254000.0,9378464.6333499
+Asia & Oceania,Samoa,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1996.0,5.97,358200.0,789695.82314667
+Asia & Oceania,Singapore,non-member,1996.0,1346.99,80819400.0,178176277.52434388
+Asia & Oceania,Solomon Islands,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1996.0,0.05,3000.0,6613.86786555
+Asia & Oceania,Taiwan,non-member,1996.0,87.21,5232600.0,11535908.33109231
+Asia & Oceania,Tonga,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1996.0,11.01,660600.0,1456373.70399411
+Asia & Oceania,United Arab Emirates,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1996.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1996.0,0.67,40200.0,88625.82939837
+Caribbean,Anguilla,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1996.0,0.03,1800.0,3968.32071933
+Caribbean,Grenada,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1996.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1996.0,6.52,391200.0,862448.36966772
+Caribbean,Saint Kitts and Nevis,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1996.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1996.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1996.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,1996.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1996.0,0.0,0.0,0.0
+Europe,Albania,non-member,1996.0,2.0,120000.0,264554.714622
+Europe,Belarus,non-member,1996.0,1.03,61800.0,136245.67803033
+Europe,Bosnia and Herzegovina,non-member,1996.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1996.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1996.0,0.02,1200.0,2645.54714622
+Europe,Iceland,non-member,1996.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1996.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1996.0,0.0,0.0,0.0
+Europe,Republic of Moldova,non-member,1996.0,5.59,335400.0,739430.42736849
+Europe,Serbia,non-member,1996.0,0.93,55800.0,123017.94229923
+Europe,Ukraine,non-member,1996.0,10.4,624000.0,1375684.5160344
+Europe,USSR,non-member,1996.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1996.0,0.0,0.0,0.0
+North America,Canada,non-member,1996.0,472.87,28372200.0,62549993.95165257
+South America,Argentina,non-member,1996.0,125.23,7513800.0,16565093.45605653
+South America,Chile,non-member,1996.0,112.84,6770400.0,14926176.99897324
+South America,Suriname,non-member,1996.0,0.21,12600.0,27778.24503531
+South America,Uruguay,non-member,1996.0,0.02,1200.0,2645.54714622
+Africa,Algeria,non-member,1997.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1997.0,0.04,2400.0,5291.09429244
+Africa,Burkina Faso,non-member,1997.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1997.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1997.0,0.05,3000.0,6613.86786555
+Africa,Djibouti,non-member,1997.0,1.86,111600.0,246035.88459846
+Africa,Egypt,non-member,1997.0,0.06,3600.0,7936.64143866
+Africa,Eswatini,non-member,1997.0,0.07,4200.0,9259.41501177
+Africa,Gambia,non-member,1997.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1997.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,1997.0,0.0,0.0,0.0
+Africa,Mali,non-member,1997.0,1.33,79800.0,175928.88522363
+Africa,Mauritius,non-member,1997.0,0.02,1200.0,2645.54714622
+Africa,Morocco,non-member,1997.0,77.44,4646400.0,10243558.55016384
+Africa,Mozambique,non-member,1997.0,0.0,0.0,0.0
+Africa,Namibia,non-member,1997.0,0.4,24000.0,52910.9429244
+Africa,Niger,non-member,1997.0,1.56,93600.0,206352.67740516
+Africa,Sao Tome and Principe,non-member,1997.0,0.52,31200.0,68784.22580172001
+Africa,Senegal,non-member,1997.0,0.17,10200.0,22487.15074287
+Africa,Seychelles,non-member,1997.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1997.0,0.05,3000.0,6613.86786555
+Africa,South Africa,non-member,1997.0,68.67,4120200.0,9083486.12654637
+Africa,Sudan,non-member,1997.0,0.3,18000.0,39683.2071933
+Asia & Oceania,Abu Dhabi,non-member,1997.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Armenia,non-member,1997.0,0.05,3000.0,6613.86786555
+Asia & Oceania,Australia,non-member,1997.0,98.95,5937000.0,13088844.50592345
+Asia & Oceania,Azerbaijan,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1997.0,0.41,24600.0,54233.71649751
+Asia & Oceania,Bangladesh,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1997.0,0.01,600.0,1322.77357311
+Asia & Oceania,Cambodia,non-member,1997.0,0.07,4200.0,9259.41501177
+Asia & Oceania,China (Mainland),non-member,1997.0,234.56,14073600.0,31026976.93086816
+Asia & Oceania,Hong Kong,non-member,1997.0,20.27,1216200.0,2681262.03269397
+Asia & Oceania,Macao,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1997.0,36.07,2164200.0,4771244.27820777
+Asia & Oceania,Fiji,non-member,1997.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Iran (Islamic Republic of),non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1997.0,95.64,5738400.0,12651006.45322404
+Asia & Oceania,Jordan,non-member,1997.0,19.62,1177200.0,2595281.75044182
+Asia & Oceania,Kazakhstan,non-member,1997.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Kuwait,non-member,1997.0,1.08,64800.0,142859.54589588
+Asia & Oceania,Kyrgyzstan,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,1997.0,3.81,228600.0,503976.73135491
+Asia & Oceania,Malaysia,non-member,1997.0,162.18,9730800.0,21452741.80869798
+Asia & Oceania,Mongolia,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1997.0,1.25,75000.0,165346.69663875
+Asia & Oceania,Oman,non-member,1997.0,1.49,89400.0,197093.26239339
+Asia & Oceania,Pakistan,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1997.0,1.06,63600.0,140213.99874966
+Asia & Oceania,Republic of Korea,non-member,1997.0,113.83,6829800.0,15057131.58271113
+Asia & Oceania,Samoa,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1997.0,3.37,202200.0,445774.69413807
+Asia & Oceania,Singapore,non-member,1997.0,1662.05,99723000.0,219851581.71874756
+Asia & Oceania,Solomon Islands,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Taiwan,non-member,1997.0,37.97,2278200.0,5022571.25709867
+Asia & Oceania,Tonga,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1997.0,16.48,988800.0,2179930.84848528
+Asia & Oceania,United Arab Emirates,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1997.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1997.0,1.03,61800.0,136245.67803033
+Caribbean,Anguilla,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1997.0,0.03,1800.0,3968.32071933
+Caribbean,Grenada,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1997.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,1997.0,5.16,309600.0,682551.1637247601
+Caribbean,Saint Kitts and Nevis,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1997.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1997.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1997.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,1997.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1997.0,0.0,0.0,0.0
+Europe,Albania,non-member,1997.0,0.04,2400.0,5291.09429244
+Europe,Belarus,non-member,1997.0,1.47,88200.0,194447.71524717
+Europe,Bosnia and Herzegovina,non-member,1997.0,0.0,0.0,0.0
+Europe,Georgia,non-member,1997.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,1997.0,0.03,1800.0,3968.32071933
+Europe,Iceland,non-member,1997.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1997.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1997.0,0.31,18600.0,41005.98076641
+Europe,Republic of Moldova,non-member,1997.0,1.44,86400.0,190479.39452784
+Europe,Serbia,non-member,1997.0,0.3,18000.0,39683.2071933
+Europe,Ukraine,non-member,1997.0,3.64,218400.0,481489.58061204
+Europe,USSR,non-member,1997.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1997.0,0.0,0.0,0.0
+North America,Canada,non-member,1997.0,635.37,38122200.0,84045064.51469007
+South America,Argentina,non-member,1997.0,128.6,7716000.0,17010868.1501946
+South America,Chile,non-member,1997.0,83.94,5036400.0,11103361.37268534
+South America,Suriname,non-member,1997.0,0.22,13200.0,29101.01860842
+South America,Uruguay,non-member,1997.0,0.01,600.0,1322.77357311
+Africa,Algeria,non-member,1998.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1998.0,0.16,9600.0,21164.37716976
+Africa,Burkina Faso,non-member,1998.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1998.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1998.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,1998.0,9.0,540000.0,1190496.215799
+Africa,Egypt,non-member,1998.0,0.21,12600.0,27778.24503531
+Africa,Eswatini,non-member,1998.0,0.06,3600.0,7936.64143866
+Africa,Gambia,non-member,1998.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1998.0,2.87,172200.0,379636.01548257
+Africa,Lesotho,non-member,1998.0,0.0,0.0,0.0
+Africa,Mali,non-member,1998.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,1998.0,0.02,1200.0,2645.54714622
+Africa,Morocco,non-member,1998.0,14.76,885600.0,1952413.79391036
+Africa,Mozambique,non-member,1998.0,0.06,3600.0,7936.64143866
+Africa,Namibia,non-member,1998.0,2.16,129600.0,285719.09179176
+Africa,Niger,non-member,1998.0,2.5,150000.0,330693.3932775
+Africa,Sao Tome and Principe,non-member,1998.0,0.58,34800.0,76720.86724038
+Africa,Senegal,non-member,1998.0,0.08,4800.0,10582.18858488
+Africa,Seychelles,non-member,1998.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1998.0,1.0,60000.0,132277.357311
+Africa,South Africa,non-member,1998.0,116.21,6972600.0,15371951.69311131
+Africa,Sudan,non-member,1998.0,0.9,54000.0,119049.6215799
+Asia & Oceania,Abu Dhabi,non-member,1998.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Armenia,non-member,1998.0,0.67,40200.0,88625.82939837
+Asia & Oceania,Australia,non-member,1998.0,72.41,4344600.0,9578203.44288951
+Asia & Oceania,Azerbaijan,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,1998.0,0.3,18000.0,39683.2071933
+Asia & Oceania,Bangladesh,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1998.0,0.01,600.0,1322.77357311
+Asia & Oceania,Cambodia,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,1998.0,111.15,6669000.0,14702628.26511765
+Asia & Oceania,Hong Kong,non-member,1998.0,25.88,1552800.0,3423338.00720868
+Asia & Oceania,Macao,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1998.0,36.0,2160000.0,4761984.863196
+Asia & Oceania,Fiji,non-member,1998.0,0.13,7800.0,17196.056450430002
+Asia & Oceania,Iran (Islamic Republic of),non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1998.0,65.85,3951000.0,8710463.97892935
+Asia & Oceania,Jordan,non-member,1998.0,17.81,1068600.0,2355859.73370891
+Asia & Oceania,Kazakhstan,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,1998.0,0.41,24600.0,54233.71649751
+Asia & Oceania,Kyrgyzstan,non-member,1998.0,0.75,45000.0,99208.01798325
+Asia & Oceania,Lebanon,non-member,1998.0,3.03,181800.0,400800.39265233
+Asia & Oceania,Malaysia,non-member,1998.0,203.58,12214800.0,26929024.40137338
+Asia & Oceania,Mongolia,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1998.0,7.23,433800.0,956365.29335853
+Asia & Oceania,Oman,non-member,1998.0,4.34,260400.0,574083.73072974
+Asia & Oceania,Pakistan,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1998.0,1.13,67800.0,149473.41376143
+Asia & Oceania,Republic of Korea,non-member,1998.0,82.69,4961400.0,10938014.67604659
+Asia & Oceania,Samoa,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1998.0,5.53,331800.0,731493.78592983
+Asia & Oceania,Singapore,non-member,1998.0,1267.74,76064400.0,167693296.95744714
+Asia & Oceania,Solomon Islands,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1998.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Taiwan,non-member,1998.0,8.34,500400.0,1103193.15997374
+Asia & Oceania,Tonga,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1998.0,9.76,585600.0,1291027.00735536
+Asia & Oceania,United Arab Emirates,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1998.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1998.0,1.86,111600.0,246035.88459846
+Caribbean,Anguilla,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1998.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1998.0,0.6,36000.0,79366.4143866
+Caribbean,Puerto Rico,non-member,1998.0,3.86,231600.0,510590.59922046
+Caribbean,Saint Kitts and Nevis,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1998.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,1998.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1998.0,0.03,1800.0,3968.32071933
+Central America & Mexico,Bermuda,non-member,1998.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1998.0,0.0,0.0,0.0
+Europe,Albania,non-member,1998.0,2.99,179400.0,395509.29835989
+Europe,Belarus,non-member,1998.0,0.4,24000.0,52910.9429244
+Europe,Bosnia and Herzegovina,non-member,1998.0,0.16,9600.0,21164.37716976
+Europe,Georgia,non-member,1998.0,3.19,191400.0,421964.76982209
+Europe,Gibraltar,non-member,1998.0,0.0,0.0,0.0
+Europe,Iceland,non-member,1998.0,0.01,600.0,1322.77357311
+Europe,Montenegro,non-member,1998.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1998.0,0.07,4200.0,9259.41501177
+Europe,Republic of Moldova,non-member,1998.0,0.0,0.0,0.0
+Europe,Serbia,non-member,1998.0,7.29,437400.0,964301.93479719
+Europe,Ukraine,non-member,1998.0,9.49,569400.0,1255312.12088139
+Europe,USSR,non-member,1998.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1998.0,0.0,0.0,0.0
+North America,Canada,non-member,1998.0,1093.38,65602800.0,144629416.93670118
+South America,Argentina,non-member,1998.0,2.88,172800.0,380958.78905568
+South America,Chile,non-member,1998.0,71.67,4300200.0,9480318.19847937
+South America,Suriname,non-member,1998.0,0.2,12000.0,26455.4714622
+South America,Uruguay,non-member,1998.0,0.57,34200.0,75398.09366727
+Africa,Algeria,non-member,1999.0,0.0,0.0,0.0
+Africa,Botswana,non-member,1999.0,0.19,11400.0,25132.69788909
+Africa,Burkina Faso,non-member,1999.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,1999.0,0.0,0.0,0.0
+Africa,Comoros,non-member,1999.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,1999.0,5.72,343200.0,756626.48381892
+Africa,Egypt,non-member,1999.0,0.91,54600.0,120372.39515301
+Africa,Eswatini,non-member,1999.0,0.09,5400.0,11904.96215799
+Africa,Gambia,non-member,1999.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,1999.0,2.23,133800.0,294978.50680353
+Africa,Lesotho,non-member,1999.0,0.0,0.0,0.0
+Africa,Mali,non-member,1999.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,1999.0,0.02,1200.0,2645.54714622
+Africa,Morocco,non-member,1999.0,70.9,4254000.0,9378464.6333499
+Africa,Mozambique,non-member,1999.0,0.06,3600.0,7936.64143866
+Africa,Namibia,non-member,1999.0,0.62,37200.0,82011.96153282
+Africa,Niger,non-member,1999.0,1.0,60000.0,132277.357311
+Africa,Sao Tome and Principe,non-member,1999.0,0.02,1200.0,2645.54714622
+Africa,Senegal,non-member,1999.0,0.38,22800.0,50265.39577818
+Africa,Seychelles,non-member,1999.0,0.0,0.0,0.0
+Africa,Somalia,non-member,1999.0,0.0,0.0,0.0
+Africa,South Africa,non-member,1999.0,43.39,2603400.0,5739514.53372429
+Africa,Sudan,non-member,1999.0,0.3,18000.0,39683.2071933
+Asia & Oceania,Abu Dhabi,non-member,1999.0,0.3,18000.0,39683.2071933
+Asia & Oceania,Armenia,non-member,1999.0,0.92,55200.0,121695.16872612
+Asia & Oceania,Australia,non-member,1999.0,70.84,4250400.0,9370527.99191124
+Asia & Oceania,Azerbaijan,non-member,1999.0,3.47,208200.0,459002.42986917
+Asia & Oceania,Bahrain,non-member,1999.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Bangladesh,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,1999.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Cambodia,non-member,1999.0,0.35,21000.0,46297.07505885
+Asia & Oceania,China (Mainland),non-member,1999.0,72.7,4362000.0,9616563.8765097
+Asia & Oceania,Hong Kong,non-member,1999.0,47.58,2854800.0,6293756.66085738
+Asia & Oceania,Macao,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,1999.0,23.75,1425000.0,3141587.23613625
+Asia & Oceania,Fiji,non-member,1999.0,0.42,25200.0,55556.49007062
+Asia & Oceania,Iran (Islamic Republic of),non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,1999.0,56.89,3413400.0,7525258.8574227905
+Asia & Oceania,Jordan,non-member,1999.0,17.69,1061400.0,2339986.45083159
+Asia & Oceania,Kazakhstan,non-member,1999.0,1.78,106800.0,235453.69601358
+Asia & Oceania,Kuwait,non-member,1999.0,1.14,68400.0,150796.18733454
+Asia & Oceania,Kyrgyzstan,non-member,1999.0,0.45,27000.0,59524.81078995
+Asia & Oceania,Lebanon,non-member,1999.0,3.28,196800.0,433869.73198008
+Asia & Oceania,Malaysia,non-member,1999.0,401.71,24102600.0,53137137.20540181
+Asia & Oceania,Mongolia,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,1999.0,3.1,186000.0,410059.8076641
+Asia & Oceania,Oman,non-member,1999.0,9.81,588600.0,1297640.87522091
+Asia & Oceania,Pakistan,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,1999.0,2.18,130800.0,288364.63893798
+Asia & Oceania,Republic of Korea,non-member,1999.0,51.32,3079200.0,6788473.97720052
+Asia & Oceania,Samoa,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,1999.0,6.52,391200.0,862448.36966772
+Asia & Oceania,Singapore,non-member,1999.0,1130.26,67815600.0,149507805.87433085
+Asia & Oceania,Solomon Islands,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Taiwan,non-member,1999.0,15.06,903600.0,1992097.00110366
+Asia & Oceania,Tonga,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,1999.0,3.04,182400.0,402123.16622544
+Asia & Oceania,United Arab Emirates,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,1999.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,1999.0,0.02,1200.0,2645.54714622
+Caribbean,Anguilla,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,1999.0,0.02,1200.0,2645.54714622
+Caribbean,Grenada,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,1999.0,0.6,36000.0,79366.4143866
+Caribbean,Puerto Rico,non-member,1999.0,2.54,152400.0,335984.48756994
+Caribbean,Saint Kitts and Nevis,non-member,1999.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,1999.0,0.01,600.0,1322.77357311
+Caribbean,Saint Vincent & the Grenadines,non-member,1999.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,1999.0,0.07,4200.0,9259.41501177
+Central America & Mexico,Bermuda,non-member,1999.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,1999.0,0.0,0.0,0.0
+Europe,Albania,non-member,1999.0,0.69,41400.0,91271.37654459
+Europe,Belarus,non-member,1999.0,6.16,369600.0,814828.5210357601
+Europe,Bosnia and Herzegovina,non-member,1999.0,0.45,27000.0,59524.81078995
+Europe,Georgia,non-member,1999.0,1.4,84000.0,185188.3002354
+Europe,Gibraltar,non-member,1999.0,0.0,0.0,0.0
+Europe,Iceland,non-member,1999.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,1999.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,1999.0,0.49,29400.0,64815.90508239
+Europe,Republic of Moldova,non-member,1999.0,0.0,0.0,0.0
+Europe,Serbia,non-member,1999.0,0.11,6600.0,14550.50930421
+Europe,Ukraine,non-member,1999.0,13.07,784200.0,1728865.06005477
+Europe,USSR,non-member,1999.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,1999.0,0.0,0.0,0.0
+North America,Canada,non-member,1999.0,1012.65,60759000.0,133950665.88098416
+South America,Argentina,non-member,1999.0,7.94,476400.0,1050282.21704934
+South America,Chile,non-member,1999.0,21.23,1273800.0,2808248.29571253
+South America,Suriname,non-member,1999.0,0.2,12000.0,26455.4714622
+South America,Uruguay,non-member,1999.0,0.26,15600.0,34392.112900860004
+Africa,Algeria,non-member,2000.0,0.0,0.0,0.0
+Africa,Botswana,non-member,2000.0,0.1,6000.0,13227.7357311
+Africa,Burkina Faso,non-member,2000.0,0.01,600.0,1322.77357311
+Africa,Cabo Verde,non-member,2000.0,0.37,22200.0,48942.62220507
+Africa,Comoros,non-member,2000.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2000.0,3.02,181200.0,399477.61907922
+Africa,Egypt,non-member,2000.0,0.38,22800.0,50265.39577818
+Africa,Eswatini,non-member,2000.0,0.64,38400.0,84657.50867904
+Africa,Gambia,non-member,2000.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2000.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2000.0,0.0,0.0,0.0
+Africa,Mali,non-member,2000.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2000.0,0.25,15000.0,33069.33932775
+Africa,Morocco,non-member,2000.0,83.4,5004000.0,11031931.5997374
+Africa,Mozambique,non-member,2000.0,0.05,3000.0,6613.86786555
+Africa,Namibia,non-member,2000.0,0.61,36600.0,80689.18795971
+Africa,Niger,non-member,2000.0,0.5,30000.0,66138.6786555
+Africa,Sao Tome and Principe,non-member,2000.0,0.24,14400.0,31746.56575464
+Africa,Senegal,non-member,2000.0,0.13,7800.0,17196.056450430002
+Africa,Seychelles,non-member,2000.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2000.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2000.0,44.39,2663400.0,5871791.89103529
+Africa,Sudan,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2000.0,0.8,48000.0,105821.8858488
+Asia & Oceania,Australia,non-member,2000.0,89.39,5363400.0,11824272.970030291
+Asia & Oceania,Azerbaijan,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2000.0,0.4,24000.0,52910.9429244
+Asia & Oceania,Bangladesh,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2000.0,0.01,600.0,1322.77357311
+Asia & Oceania,Cambodia,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2000.0,59.13,3547800.0,7821560.13779943
+Asia & Oceania,Hong Kong,non-member,2000.0,46.4,2784000.0,6137669.3792304
+Asia & Oceania,Macao,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2000.0,10.87,652200.0,1437854.87397057
+Asia & Oceania,Fiji,non-member,2000.0,0.26,15600.0,34392.112900860004
+Asia & Oceania,Iran (Islamic Republic of),non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2000.0,69.65,4179000.0,9213117.93671115
+Asia & Oceania,Jordan,non-member,2000.0,17.05,1023000.0,2255328.94215255
+Asia & Oceania,Kazakhstan,non-member,2000.0,0.44,26400.0,58202.03721684
+Asia & Oceania,Kuwait,non-member,2000.0,2.05,123000.0,271168.58248755
+Asia & Oceania,Kyrgyzstan,non-member,2000.0,0.07,4200.0,9259.41501177
+Asia & Oceania,Lebanon,non-member,2000.0,2.1,126000.0,277782.4503531
+Asia & Oceania,Malaysia,non-member,2000.0,754.06,45243600.0,99745064.05393267
+Asia & Oceania,Mongolia,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,2000.0,3.34,200400.0,441806.37341874
+Asia & Oceania,Oman,non-member,2000.0,8.9,534000.0,1177268.4800679
+Asia & Oceania,Pakistan,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2000.0,0.36,21600.0,47619.84863196
+Asia & Oceania,Republic of Korea,non-member,2000.0,70.86,4251600.0,9373173.53905746
+Asia & Oceania,Samoa,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2000.0,9.27,556200.0,1226211.10227297
+Asia & Oceania,Singapore,non-member,2000.0,1410.62,84637200.0,186593085.7700428
+Asia & Oceania,Solomon Islands,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2000.0,0.3,18000.0,39683.2071933
+Asia & Oceania,Taiwan,non-member,2000.0,25.91,1554600.0,3427306.32792801
+Asia & Oceania,Tonga,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2000.0,5.05,303000.0,668000.65442055
+Asia & Oceania,United Arab Emirates,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,2000.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2000.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2000.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2000.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2000.0,0.11,6600.0,14550.50930421
+Caribbean,Bahamas,non-member,2000.0,0.01,600.0,1322.77357311
+Caribbean,Barbados,non-member,2000.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2000.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2000.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2000.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2000.0,3.25,195000.0,429901.41126075
+Caribbean,Saint Kitts and Nevis,non-member,2000.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2000.0,0.01,600.0,1322.77357311
+Caribbean,Saint Vincent & the Grenadines,non-member,2000.0,0.02,1200.0,2645.54714622
+Central America & Mexico,Belize,non-member,2000.0,0.04,2400.0,5291.09429244
+Central America & Mexico,Bermuda,non-member,2000.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2000.0,0.0,0.0,0.0
+Europe,Albania,non-member,2000.0,0.76,45600.0,100530.79155636
+Europe,Belarus,non-member,2000.0,8.89,533400.0,1175945.70649479
+Europe,Bosnia and Herzegovina,non-member,2000.0,1.81,108600.0,239422.01673291
+Europe,Georgia,non-member,2000.0,0.39,23400.0,51588.16935129
+Europe,Gibraltar,non-member,2000.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2000.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2000.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2000.0,0.51,30600.0,67461.45222861
+Europe,Republic of Moldova,non-member,2000.0,0.06,3600.0,7936.64143866
+Europe,Serbia,non-member,2000.0,0.04,2400.0,5291.09429244
+Europe,Ukraine,non-member,2000.0,5.48,328800.0,724879.9180642801
+Europe,USSR,non-member,2000.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2000.0,0.0,0.0,0.0
+North America,Canada,non-member,2000.0,943.72,56623200.0,124832787.64153692
+South America,Argentina,non-member,2000.0,6.16,369600.0,814828.5210357601
+South America,Chile,non-member,2000.0,27.42,1645200.0,3627045.13746762
+South America,Suriname,non-member,2000.0,0.21,12600.0,27778.24503531
+South America,Uruguay,non-member,2000.0,0.36,21600.0,47619.84863196
+Africa,Algeria,non-member,2001.0,0.24,14400.0,31746.56575464
+Africa,Botswana,non-member,2001.0,0.09,5400.0,11904.96215799
+Africa,Burkina Faso,non-member,2001.0,0.01,600.0,1322.77357311
+Africa,Cabo Verde,non-member,2001.0,0.44,26400.0,58202.03721684
+Africa,Comoros,non-member,2001.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2001.0,0.61,36600.0,80689.18795971
+Africa,Egypt,non-member,2001.0,0.02,1200.0,2645.54714622
+Africa,Eswatini,non-member,2001.0,12.13,727800.0,1604524.34418243
+Africa,Gambia,non-member,2001.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2001.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2001.0,0.0,0.0,0.0
+Africa,Mali,non-member,2001.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2001.0,0.02,1200.0,2645.54714622
+Africa,Morocco,non-member,2001.0,75.62,4537200.0,10002813.75985782
+Africa,Mozambique,non-member,2001.0,0.02,1200.0,2645.54714622
+Africa,Namibia,non-member,2001.0,1.31,78600.0,173283.33807741
+Africa,Niger,non-member,2001.0,0.21,12600.0,27778.24503531
+Africa,Sao Tome and Principe,non-member,2001.0,0.19,11400.0,25132.69788909
+Africa,Senegal,non-member,2001.0,0.54,32400.0,71429.77294794
+Africa,Seychelles,non-member,2001.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2001.0,0.31,18600.0,41005.98076641
+Africa,South Africa,non-member,2001.0,36.0,2160000.0,4761984.863196
+Africa,Sudan,non-member,2001.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Abu Dhabi,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2001.0,1.61,96600.0,212966.54527071
+Asia & Oceania,Australia,non-member,2001.0,133.66,8019600.0,17680191.57818826
+Asia & Oceania,Azerbaijan,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2001.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Bangladesh,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2001.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Cambodia,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2001.0,192.74,11564400.0,25495137.84812214
+Asia & Oceania,Hong Kong,non-member,2001.0,20.31,1218600.0,2686553.12698641
+Asia & Oceania,Macao,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2001.0,26.95,1617000.0,3564874.77953145
+Asia & Oceania,Fiji,non-member,2001.0,0.99,59400.0,130954.58373789
+Asia & Oceania,Iran (Islamic Republic of),non-member,2001.0,0.17,10200.0,22487.15074287
+Asia & Oceania,Iraq,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2001.0,62.65,3759000.0,8287176.43553415
+Asia & Oceania,Jordan,non-member,2001.0,32.37,1942199.9999999998,4281818.056157069
+Asia & Oceania,Kazakhstan,non-member,2001.0,0.07,4200.0,9259.41501177
+Asia & Oceania,Kuwait,non-member,2001.0,8.77,526200.0,1160072.42361747
+Asia & Oceania,Kyrgyzstan,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,2001.0,3.13,187800.0,414028.12838343
+Asia & Oceania,Malaysia,non-member,2001.0,1119.01,67140600.0,148019685.6045821
+Asia & Oceania,Mongolia,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2001.0,3.88,232800.0,513236.14636668
+Asia & Oceania,New Zealand,non-member,2001.0,6.48,388800.0,857157.2753752801
+Asia & Oceania,Oman,non-member,2001.0,0.51,30600.0,67461.45222861
+Asia & Oceania,Pakistan,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2001.0,0.37,22200.0,48942.62220507
+Asia & Oceania,Republic of Korea,non-member,2001.0,72.43,4345800.0,9580848.99003573
+Asia & Oceania,Samoa,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2001.0,16.79,1007400.0,2220936.82925169
+Asia & Oceania,Singapore,non-member,2001.0,1639.79,98387400.0,216907087.74500468
+Asia & Oceania,Solomon Islands,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2001.0,0.12,7200.0,15873.28287732
+Asia & Oceania,Taiwan,non-member,2001.0,25.69,1541400.0,3398205.30931959
+Asia & Oceania,Tonga,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2001.0,4.43,265800.0,585988.69288773
+Asia & Oceania,United Arab Emirates,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,2001.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2001.0,0.07,4200.0,9259.41501177
+Caribbean,Anguilla,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2001.0,0.03,1800.0,3968.32071933
+Caribbean,Bahamas,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2001.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2001.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2001.0,6.52,391200.0,862448.36966772
+Caribbean,Saint Kitts and Nevis,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2001.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2001.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2001.0,0.03,1800.0,3968.32071933
+Central America & Mexico,Bermuda,non-member,2001.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2001.0,0.0,0.0,0.0
+Europe,Albania,non-member,2001.0,1.73,103800.0,228839.82814803
+Europe,Belarus,non-member,2001.0,2.48,148800.0,328047.84613128
+Europe,Bosnia and Herzegovina,non-member,2001.0,1.75,105000.0,231485.37529425
+Europe,Georgia,non-member,2001.0,0.01,600.0,1322.77357311
+Europe,Gibraltar,non-member,2001.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2001.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2001.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2001.0,0.63,37800.0,83334.73510593
+Europe,Republic of Moldova,non-member,2001.0,0.0,0.0,0.0
+Europe,Serbia,non-member,2001.0,1.83,109800.0,242067.56387913
+Europe,Ukraine,non-member,2001.0,4.33,259800.0,572760.95715663
+Europe,USSR,non-member,2001.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2001.0,0.0,0.0,0.0
+North America,Canada,non-member,2001.0,842.18,50530800.0,111401344.78017798
+South America,Argentina,non-member,2001.0,4.79,287400.0,633608.54151969
+South America,Chile,non-member,2001.0,61.79,3707400.0,8173417.90824669
+South America,Suriname,non-member,2001.0,0.2,12000.0,26455.4714622
+South America,Uruguay,non-member,2001.0,0.53,31800.0,70106.99937483
+Africa,Algeria,non-member,2002.0,0.01,600.0,1322.77357311
+Africa,Botswana,non-member,2002.0,0.08,4800.0,10582.18858488
+Africa,Burkina Faso,non-member,2002.0,0.21,12600.0,27778.24503531
+Africa,Cabo Verde,non-member,2002.0,0.0,0.0,0.0
+Africa,Comoros,non-member,2002.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2002.0,3.47,208200.0,459002.42986917
+Africa,Egypt,non-member,2002.0,0.44,26400.0,58202.03721684
+Africa,Eswatini,non-member,2002.0,9.18,550800.0,1214306.14011498
+Africa,Gambia,non-member,2002.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2002.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2002.0,0.0,0.0,0.0
+Africa,Mali,non-member,2002.0,0.09,5400.0,11904.96215799
+Africa,Mauritius,non-member,2002.0,0.03,1800.0,3968.32071933
+Africa,Morocco,non-member,2002.0,123.22,7393200.0,16299215.96786142
+Africa,Mozambique,non-member,2002.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2002.0,3.9,234000.0,515881.6935129
+Africa,Niger,non-member,2002.0,0.93,55800.0,123017.94229923
+Africa,Sao Tome and Principe,non-member,2002.0,0.07,4200.0,9259.41501177
+Africa,Senegal,non-member,2002.0,2.02,121200.0,267200.26176822
+Africa,Seychelles,non-member,2002.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2002.0,0.08,4800.0,10582.18858488
+Africa,South Africa,non-member,2002.0,32.47,1948200.0,4295045.79188817
+Africa,Sudan,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2002.0,14.84,890400.0,1962995.98249524
+Asia & Oceania,Armenia,non-member,2002.0,11.66,699600.0,1542353.98624626
+Asia & Oceania,Australia,non-member,2002.0,144.94,8696400.0,19172280.16865634
+Asia & Oceania,Azerbaijan,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2002.0,0.32,19200.0,42328.75433952
+Asia & Oceania,Bangladesh,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2002.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Cambodia,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2002.0,208.53,12511800.0,27583797.32006283
+Asia & Oceania,Hong Kong,non-member,2002.0,2.61,156600.0,345243.90258171
+Asia & Oceania,Macao,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2002.0,44.03,2641800.0,5824172.04240333
+Asia & Oceania,Fiji,non-member,2002.0,2.16,129600.0,285719.09179176
+Asia & Oceania,Iran (Islamic Republic of),non-member,2002.0,1.0,60000.0,132277.357311
+Asia & Oceania,Iraq,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2002.0,28.68,1720800.0,3793714.60767948
+Asia & Oceania,Jordan,non-member,2002.0,13.34,800400.0,1764579.94652874
+Asia & Oceania,Kazakhstan,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Kuwait,non-member,2002.0,14.45,867000.0,1911407.81314395
+Asia & Oceania,Kyrgyzstan,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,2002.0,3.24,194400.0,428578.63768764003
+Asia & Oceania,Malaysia,non-member,2002.0,1176.02,70561200.0,155560817.74488223
+Asia & Oceania,Mongolia,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2002.0,3.12,187200.0,412705.35481032
+Asia & Oceania,New Zealand,non-member,2002.0,4.43,265800.0,585988.69288773
+Asia & Oceania,Oman,non-member,2002.0,2.82,169200.0,373022.14761702
+Asia & Oceania,Pakistan,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2002.0,1.16,69600.0,153441.73448076
+Asia & Oceania,Republic of Korea,non-member,2002.0,105.87,6352200.0,14004203.81851557
+Asia & Oceania,Samoa,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2002.0,8.46,507600.0,1119066.44285106
+Asia & Oceania,Singapore,non-member,2002.0,1896.21,113772600.0,250825647.70669132
+Asia & Oceania,Solomon Islands,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2002.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Taiwan,non-member,2002.0,32.27,1936200.0000000002,4268590.3204259705
+Asia & Oceania,Tonga,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2002.0,4.35,261000.0,575406.50430285
+Asia & Oceania,United Arab Emirates,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,2002.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2002.0,0.05,3000.0,6613.86786555
+Caribbean,Anguilla,non-member,2002.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2002.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2002.0,0.24,14400.0,31746.56575464
+Caribbean,Bahamas,non-member,2002.0,0.28,16800.0,37037.66004708
+Caribbean,Barbados,non-member,2002.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2002.0,0.06,3600.0,7936.64143866
+Caribbean,Grenada,non-member,2002.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2002.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2002.0,1.74,104400.0,230162.60172114
+Caribbean,Saint Kitts and Nevis,non-member,2002.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2002.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2002.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2002.0,0.06,3600.0,7936.64143866
+Central America & Mexico,Bermuda,non-member,2002.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2002.0,0.0,0.0,0.0
+Europe,Albania,non-member,2002.0,5.34,320400.0,706361.08804074
+Europe,Belarus,non-member,2002.0,1.8,108000.0,238099.2431598
+Europe,Bosnia and Herzegovina,non-member,2002.0,4.12,247200.0,544982.71212132
+Europe,Georgia,non-member,2002.0,0.01,600.0,1322.77357311
+Europe,Gibraltar,non-member,2002.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2002.0,0.05,3000.0,6613.86786555
+Europe,Montenegro,non-member,2002.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2002.0,0.78,46800.0,103176.33870258
+Europe,Republic of Moldova,non-member,2002.0,0.0,0.0,0.0
+Europe,Serbia,non-member,2002.0,16.47,988200.0,2178608.07491217
+Europe,Ukraine,non-member,2002.0,2.89,173400.0,382281.56262879
+Europe,USSR,non-member,2002.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2002.0,0.0,0.0,0.0
+North America,Canada,non-member,2002.0,897.33,53839800.0,118696441.03587963
+South America,Argentina,non-member,2002.0,6.57,394200.0,869062.23753327
+South America,Chile,non-member,2002.0,69.08,4144800.0,9137719.84304388
+South America,Suriname,non-member,2002.0,1.1,66000.0,145505.0930421
+South America,Uruguay,non-member,2002.0,0.0,0.0,0.0
+Africa,Algeria,non-member,2003.0,0.0,0.0,0.0
+Africa,Botswana,non-member,2003.0,0.35,21000.0,46297.07505885
+Africa,Burkina Faso,non-member,2003.0,2.68,160800.0,354503.31759348
+Africa,Cabo Verde,non-member,2003.0,0.26,15600.0,34392.112900860004
+Africa,Comoros,non-member,2003.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2003.0,2.41,144600.0,318788.43111951003
+Africa,Egypt,non-member,2003.0,2.79,167400.0,369053.82689769
+Africa,Eswatini,non-member,2003.0,9.86,591600.0,1304254.74308646
+Africa,Gambia,non-member,2003.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2003.0,1.25,75000.0,165346.69663875
+Africa,Lesotho,non-member,2003.0,0.0,0.0,0.0
+Africa,Mali,non-member,2003.0,1.86,111600.0,246035.88459846
+Africa,Mauritius,non-member,2003.0,0.05,3000.0,6613.86786555
+Africa,Morocco,non-member,2003.0,141.61,8496600.0,18731796.56881071
+Africa,Mozambique,non-member,2003.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2003.0,0.2,12000.0,26455.4714622
+Africa,Niger,non-member,2003.0,0.67,40200.0,88625.82939837
+Africa,Sao Tome and Principe,non-member,2003.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2003.0,4.97,298200.0,657418.46583567
+Africa,Seychelles,non-member,2003.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2003.0,0.98,58800.0,129631.81016478
+Africa,South Africa,non-member,2003.0,27.88,1672800.0,3687892.72183068
+Africa,Sudan,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2003.0,1.51,90600.0,199738.80953961
+Asia & Oceania,Armenia,non-member,2003.0,33.68,2020800.0,4455101.39423448
+Asia & Oceania,Australia,non-member,2003.0,130.38,7822800.0,17246321.84620818
+Asia & Oceania,Azerbaijan,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2003.0,0.1,6000.0,13227.7357311
+Asia & Oceania,Bangladesh,non-member,2003.0,0.24,14400.0,31746.56575464
+Asia & Oceania,Brunei Darussalam,non-member,2003.0,0.06,3600.0,7936.64143866
+Asia & Oceania,Cambodia,non-member,2003.0,0.03,1800.0,3968.32071933
+Asia & Oceania,China (Mainland),non-member,2003.0,274.32,16459200.0,36286324.657553524
+Asia & Oceania,Hong Kong,non-member,2003.0,9.24,554400.0,1222242.78155364
+Asia & Oceania,Macao,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2003.0,35.35,2121000.0,4676004.58094385
+Asia & Oceania,Fiji,non-member,2003.0,0.89,53400.0,117726.84800679
+Asia & Oceania,Iran (Islamic Republic of),non-member,2003.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Iraq,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2003.0,17.06,1023600.0,2256651.71572566
+Asia & Oceania,Jordan,non-member,2003.0,21.03,1261800.0,2781792.82425033
+Asia & Oceania,Kazakhstan,non-member,2003.0,0.23,13800.0,30423.79218153
+Asia & Oceania,Kuwait,non-member,2003.0,4.81,288600.0,636254.08866591
+Asia & Oceania,Kyrgyzstan,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,2003.0,8.15,489000.0,1078060.46208465
+Asia & Oceania,Malaysia,non-member,2003.0,1277.65,76659000.0,169004165.56839916
+Asia & Oceania,Mongolia,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2003.0,4.61,276600.0,609798.61720371
+Asia & Oceania,New Zealand,non-member,2003.0,2.46,147600.0,325402.29898506
+Asia & Oceania,Oman,non-member,2003.0,2.88,172800.0,380958.78905568
+Asia & Oceania,Pakistan,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2003.0,0.01,600.0,1322.77357311
+Asia & Oceania,Republic of Korea,non-member,2003.0,97.97,5878200.0,12959212.69575867
+Asia & Oceania,Samoa,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2003.0,6.75,405000.0,892872.16184925
+Asia & Oceania,Singapore,non-member,2003.0,2060.17,123610200.0,272513843.2114029
+Asia & Oceania,Solomon Islands,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2003.0,3.13,187800.0,414028.12838343
+Asia & Oceania,Taiwan,non-member,2003.0,31.99,1919400.0,4231552.66037889
+Asia & Oceania,Tonga,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2003.0,5.31,318600.0,702392.76732141
+Asia & Oceania,United Arab Emirates,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,2003.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2003.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2003.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2003.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2003.0,0.06,3600.0,7936.64143866
+Caribbean,Bahamas,non-member,2003.0,0.28,16800.0,37037.66004708
+Caribbean,Barbados,non-member,2003.0,0.01,600.0,1322.77357311
+Caribbean,Dominica,non-member,2003.0,0.05,3000.0,6613.86786555
+Caribbean,Grenada,non-member,2003.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2003.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2003.0,3.74,224400.0,494717.31634314003
+Caribbean,Saint Kitts and Nevis,non-member,2003.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2003.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2003.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2003.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2003.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2003.0,0.0,0.0,0.0
+Europe,Albania,non-member,2003.0,3.48,208800.0,460325.20344228
+Europe,Belarus,non-member,2003.0,7.84,470400.0,1037054.48131824
+Europe,Bosnia and Herzegovina,non-member,2003.0,8.3,498000.0,1097902.0656813001
+Europe,Georgia,non-member,2003.0,1.67,100200.0,220903.18670937
+Europe,Gibraltar,non-member,2003.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2003.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2003.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2003.0,1.57,94200.0,207675.45097827
+Europe,Republic of Moldova,non-member,2003.0,0.0,0.0,0.0
+Europe,Serbia,non-member,2003.0,17.24,1034400.0,2280461.64004164
+Europe,Ukraine,non-member,2003.0,3.45,207000.0,456356.88272295
+Europe,USSR,non-member,2003.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2003.0,0.0,0.0,0.0
+North America,Canada,non-member,2003.0,838.62,50317200.0,110930437.38815083
+South America,Argentina,non-member,2003.0,5.31,318600.0,702392.76732141
+South America,Chile,non-member,2003.0,62.89,3773400.0,8318923.00128879
+South America,Suriname,non-member,2003.0,4.21,252600.0,556887.67427931
+South America,Uruguay,non-member,2003.0,0.11,6600.0,14550.50930421
+Africa,Algeria,non-member,2004.0,0.04,2400.0,5291.09429244
+Africa,Botswana,non-member,2004.0,0.23,13800.0,30423.79218153
+Africa,Burkina Faso,non-member,2004.0,3.14,188400.0,415350.90195654
+Africa,Cabo Verde,non-member,2004.0,0.53,31800.0,70106.99937483
+Africa,Comoros,non-member,2004.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2004.0,4.09,245400.0,541014.39140199
+Africa,Egypt,non-member,2004.0,1.1,66000.0,145505.0930421
+Africa,Eswatini,non-member,2004.0,4.75,285000.0,628317.44722725
+Africa,Gambia,non-member,2004.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2004.0,0.58,34800.0,76720.86724038
+Africa,Lesotho,non-member,2004.0,0.0,0.0,0.0
+Africa,Mali,non-member,2004.0,0.39,23400.0,51588.16935129
+Africa,Mauritius,non-member,2004.0,0.04,2400.0,5291.09429244
+Africa,Morocco,non-member,2004.0,107.42,6445200.0,14209233.72234762
+Africa,Mozambique,non-member,2004.0,0.02,1200.0,2645.54714622
+Africa,Namibia,non-member,2004.0,0.96,57600.0,126986.26301856
+Africa,Niger,non-member,2004.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2004.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2004.0,9.38,562800.0,1240761.61157718
+Africa,Seychelles,non-member,2004.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2004.0,0.57,34200.0,75398.09366727
+Africa,South Africa,non-member,2004.0,34.33,2059800.0,4541081.67648663
+Africa,Sudan,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2004.0,17.77,1066200.0,2350568.63941647
+Asia & Oceania,Armenia,non-member,2004.0,91.84,5510400.0,12148352.49544224
+Asia & Oceania,Australia,non-member,2004.0,140.03,8401800.0,18522798.34425933
+Asia & Oceania,Azerbaijan,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2004.0,0.56,33600.0,74075.32009416
+Asia & Oceania,Bangladesh,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2004.0,0.17,10200.0,22487.15074287
+Asia & Oceania,Cambodia,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2004.0,272.59,16355400.0,36057484.829405494
+Asia & Oceania,Hong Kong,non-member,2004.0,10.78,646800.0,1425949.91181258
+Asia & Oceania,Macao,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2004.0,46.21,2772600.0,6112536.68134131
+Asia & Oceania,Fiji,non-member,2004.0,0.72,43200.0,95239.69726392
+Asia & Oceania,Iran (Islamic Republic of),non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2004.0,34.02,2041200.0,4500075.69572022
+Asia & Oceania,Jordan,non-member,2004.0,24.63,1477800.0,3257991.31056993
+Asia & Oceania,Kazakhstan,non-member,2004.0,1.43,85800.0,189156.62095473
+Asia & Oceania,Kuwait,non-member,2004.0,5.9,354000.0,780436.4081349
+Asia & Oceania,Kyrgyzstan,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,2004.0,7.39,443400.0,977529.67052829
+Asia & Oceania,Malaysia,non-member,2004.0,1602.55,96153000.0,211981078.95874307
+Asia & Oceania,Mongolia,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2004.0,5.72,343200.0,756626.48381892
+Asia & Oceania,New Zealand,non-member,2004.0,3.61,216600.0,477521.25989271
+Asia & Oceania,Oman,non-member,2004.0,0.71,42600.0,93916.92369081
+Asia & Oceania,Pakistan,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2004.0,10.55,633000.0,1395526.11963105
+Asia & Oceania,Republic of Korea,non-member,2004.0,100.04,6002400.0,13233026.82539244
+Asia & Oceania,Samoa,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2004.0,0.54,32400.0,71429.77294794
+Asia & Oceania,Singapore,non-member,2004.0,1898.6,113916000.0,251141790.5906646
+Asia & Oceania,Solomon Islands,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2004.0,2.71,162600.0,358471.63831281
+Asia & Oceania,Taiwan,non-member,2004.0,20.09,1205400.0,2657452.10837799
+Asia & Oceania,Tonga,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2004.0,7.35,441000.0,972238.57623585
+Asia & Oceania,United Arab Emirates,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,2004.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2004.0,0.06,3600.0,7936.64143866
+Caribbean,Bahamas,non-member,2004.0,0.21,12600.0,27778.24503531
+Caribbean,Barbados,non-member,2004.0,0.02,1200.0,2645.54714622
+Caribbean,Dominica,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2004.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2004.0,8.44,506400.0,1116420.89570484
+Caribbean,Saint Kitts and Nevis,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2004.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2004.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2004.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2004.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2004.0,0.0,0.0,0.0
+Europe,Albania,non-member,2004.0,7.04,422400.0,931232.59546944
+Europe,Belarus,non-member,2004.0,3.25,195000.0,429901.41126075
+Europe,Bosnia and Herzegovina,non-member,2004.0,6.45,387000.0,853188.95465595
+Europe,Georgia,non-member,2004.0,2.9,174000.0,383604.3362019
+Europe,Gibraltar,non-member,2004.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2004.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2004.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2004.0,0.93,55800.0,123017.94229923
+Europe,Republic of Moldova,non-member,2004.0,0.07,4200.0,9259.41501177
+Europe,Serbia,non-member,2004.0,8.65,519000.0,1144199.1407401501
+Europe,Ukraine,non-member,2004.0,4.79,287400.0,633608.54151969
+Europe,USSR,non-member,2004.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2004.0,0.0,0.0,0.0
+North America,Canada,non-member,2004.0,762.13,45727800.0,100812542.32743242
+South America,Argentina,non-member,2004.0,5.17,310200.0,683873.93729787
+South America,Chile,non-member,2004.0,52.36,3141600.0,6926042.42880396
+South America,Suriname,non-member,2004.0,5.26,315600.0,695778.89945586
+South America,Uruguay,non-member,2004.0,0.1,6000.0,13227.7357311
+Africa,Algeria,non-member,2005.0,0.01,600.0,1322.77357311
+Africa,Botswana,non-member,2005.0,0.77,46200.0,101853.56512947001
+Africa,Burkina Faso,non-member,2005.0,3.66,219600.0,484135.12775826
+Africa,Cabo Verde,non-member,2005.0,0.4,24000.0,52910.9429244
+Africa,Comoros,non-member,2005.0,1.82,109200.0,240744.79030602
+Africa,Djibouti,non-member,2005.0,13.69,821400.0,1810877.02158759
+Africa,Egypt,non-member,2005.0,0.3,18000.0,39683.2071933
+Africa,Eswatini,non-member,2005.0,1.32,79200.0,174606.11165052
+Africa,Gambia,non-member,2005.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2005.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2005.0,0.0,0.0,0.0
+Africa,Mali,non-member,2005.0,0.11,6600.0,14550.50930421
+Africa,Mauritius,non-member,2005.0,0.04,2400.0,5291.09429244
+Africa,Morocco,non-member,2005.0,105.23,6313800.0,13919546.30983653
+Africa,Mozambique,non-member,2005.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2005.0,0.41,24600.0,54233.71649751
+Africa,Niger,non-member,2005.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2005.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2005.0,13.27,796200.0,1755320.53151697
+Africa,Seychelles,non-member,2005.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2005.0,0.11,6600.0,14550.50930421
+Africa,South Africa,non-member,2005.0,40.39,2423400.0,5342682.46179129
+Africa,Sudan,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2005.0,8.78,526800.0,1161395.19719058
+Asia & Oceania,Armenia,non-member,2005.0,88.16,5289600.0,11661571.82053776
+Asia & Oceania,Australia,non-member,2005.0,160.06,9603600.0,21172313.81119866
+Asia & Oceania,Azerbaijan,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2005.0,1.81,108600.0,239422.01673291
+Asia & Oceania,Bangladesh,non-member,2005.0,0.78,46800.0,103176.33870258
+Asia & Oceania,Brunei Darussalam,non-member,2005.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Cambodia,non-member,2005.0,0.17,10200.0,22487.15074287
+Asia & Oceania,China (Mainland),non-member,2005.0,210.24,12614400.0,27809991.60106464
+Asia & Oceania,Hong Kong,non-member,2005.0,15.9,954000.0,2103209.9812449
+Asia & Oceania,Macao,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2005.0,59.13,3547800.0,7821560.13779943
+Asia & Oceania,Fiji,non-member,2005.0,0.46,27600.0,60847.58436306
+Asia & Oceania,Iran (Islamic Republic of),non-member,2005.0,6.71,402600.0,887581.06755681
+Asia & Oceania,Iraq,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2005.0,61.88,3712800.0,8185322.87040468
+Asia & Oceania,Jordan,non-member,2005.0,5.9,354000.0,780436.4081349
+Asia & Oceania,Kazakhstan,non-member,2005.0,2.3,138000.0,304237.9218153
+Asia & Oceania,Kuwait,non-member,2005.0,3.67,220200.0,485457.90133137
+Asia & Oceania,Kyrgyzstan,non-member,2005.0,0.49,29400.0,64815.90508239
+Asia & Oceania,Lebanon,non-member,2005.0,8.52,511200.0,1127003.08428972
+Asia & Oceania,Malaysia,non-member,2005.0,682.57,40954200.0,90288555.77976927
+Asia & Oceania,Mongolia,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2005.0,2.6,156000.0,343921.1290086
+Asia & Oceania,New Zealand,non-member,2005.0,5.81,348600.0,768531.4459769101
+Asia & Oceania,Oman,non-member,2005.0,1.77,106200.0,234130.92244047
+Asia & Oceania,Pakistan,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2005.0,0.3,18000.0,39683.2071933
+Asia & Oceania,Republic of Korea,non-member,2005.0,142.72,8563200.0,18878624.43542592
+Asia & Oceania,Samoa,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2005.0,2.03,121799.99999999999,268523.03534133
+Asia & Oceania,Singapore,non-member,2005.0,2330.69,139841400.0,308297513.9111746
+Asia & Oceania,Solomon Islands,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2005.0,4.04,242400.0,534400.52353644
+Asia & Oceania,Taiwan,non-member,2005.0,4.18,250800.0,552919.35355998
+Asia & Oceania,Tonga,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2005.0,8.27,496200.0,1093933.74496197
+Asia & Oceania,United Arab Emirates,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Uzbekistan,non-member,2005.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2005.0,0.01,600.0,1322.77357311
+Caribbean,Aruba,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2005.0,0.36,21600.0,47619.84863196
+Caribbean,Barbados,non-member,2005.0,0.05,3000.0,6613.86786555
+Caribbean,Dominica,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2005.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2005.0,6.45,387000.0,853188.95465595
+Caribbean,Saint Kitts and Nevis,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2005.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2005.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2005.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2005.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2005.0,0.0,0.0,0.0
+Europe,Albania,non-member,2005.0,11.45,687000.0,1514575.74121095
+Europe,Belarus,non-member,2005.0,2.59,155400.0,342598.35543549
+Europe,Bosnia and Herzegovina,non-member,2005.0,8.9,534000.0,1177268.4800679
+Europe,Georgia,non-member,2005.0,0.13,7800.0,17196.056450430002
+Europe,Gibraltar,non-member,2005.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2005.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2005.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2005.0,1.23,73800.0,162701.14949253
+Europe,Republic of Moldova,non-member,2005.0,0.08,4800.0,10582.18858488
+Europe,Serbia,non-member,2005.0,2.48,148800.0,328047.84613128
+Europe,Ukraine,non-member,2005.0,8.0,480000.0,1058218.858488
+Europe,USSR,non-member,2005.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2005.0,0.0,0.0,0.0
+North America,Canada,non-member,2005.0,794.26,47655600.0,105062613.81783485
+South America,Argentina,non-member,2005.0,6.2,372000.0,820119.6153282
+South America,Chile,non-member,2005.0,74.86,4491600.0,9902282.96830146
+South America,Suriname,non-member,2005.0,8.21,492600.0,1085997.10352331
+South America,Uruguay,non-member,2005.0,0.09,5400.0,11904.96215799
+Africa,Algeria,non-member,2006.0,0.01,600.0,1322.77357311
+Africa,Botswana,non-member,2006.0,0.15,9000.0,19841.60359665
+Africa,Burkina Faso,non-member,2006.0,0.09,5400.0,11904.96215799
+Africa,Cabo Verde,non-member,2006.0,0.35,21000.0,46297.07505885
+Africa,Comoros,non-member,2006.0,1.0,60000.0,132277.357311
+Africa,Djibouti,non-member,2006.0,31.95,1917000.0,4226261.56608645
+Africa,Egypt,non-member,2006.0,8.42,505200.0,1113775.34855862
+Africa,Eswatini,non-member,2006.0,3.29,197400.0,435192.50555319
+Africa,Gambia,non-member,2006.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2006.0,0.53,31800.0,70106.99937483
+Africa,Lesotho,non-member,2006.0,0.0,0.0,0.0
+Africa,Mali,non-member,2006.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2006.0,0.05,3000.0,6613.86786555
+Africa,Morocco,non-member,2006.0,119.78,7186800.0,15844181.85871158
+Africa,Mozambique,non-member,2006.0,0.02,1200.0,2645.54714622
+Africa,Namibia,non-member,2006.0,1.18,70800.0,156087.28162698
+Africa,Niger,non-member,2006.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2006.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2006.0,25.18,1510800.0,3330743.85709098
+Africa,Seychelles,non-member,2006.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2006.0,0.22,13200.0,29101.01860842
+Africa,South Africa,non-member,2006.0,83.0,4980000.0,10979020.656813
+Africa,Sudan,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2006.0,102.31,6138600.0,13533296.42648841
+Asia & Oceania,Australia,non-member,2006.0,182.33,10939800.0,24118130.55851463
+Asia & Oceania,Azerbaijan,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2006.0,3.51,210600.0,464293.52416161
+Asia & Oceania,Bangladesh,non-member,2006.0,1.0,60000.0,132277.357311
+Asia & Oceania,Brunei Darussalam,non-member,2006.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Cambodia,non-member,2006.0,0.12,7200.0,15873.28287732
+Asia & Oceania,China (Mainland),non-member,2006.0,313.59,18815400.0,41480856.47915649
+Asia & Oceania,Hong Kong,non-member,2006.0,12.12,727200.0,1603201.57060932
+Asia & Oceania,Macao,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2006.0,0.11,6600.0,14550.50930421
+Asia & Oceania,Iran (Islamic Republic of),non-member,2006.0,1.89,113400.0,250004.20531779
+Asia & Oceania,Iraq,non-member,2006.0,0.92,55200.0,121695.16872612
+Asia & Oceania,Israel,non-member,2006.0,73.62,4417200.0,9738259.04523582
+Asia & Oceania,Jordan,non-member,2006.0,10.92,655200.0,1444468.74183612
+Asia & Oceania,Kazakhstan,non-member,2006.0,1.49,89400.0,197093.26239339
+Asia & Oceania,Kuwait,non-member,2006.0,2.05,123000.0,271168.58248755
+Asia & Oceania,Kyrgyzstan,non-member,2006.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Lebanon,non-member,2006.0,11.93,715800.0,1578068.87272023
+Asia & Oceania,Malaysia,non-member,2006.0,528.9,31734000.0,69961494.2817879
+Asia & Oceania,Mongolia,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2006.0,2.25,135000.0,297624.05394975
+Asia & Oceania,New Zealand,non-member,2006.0,3.55,213000.0,469584.61845405
+Asia & Oceania,Oman,non-member,2006.0,3.23,193800.0,427255.86411453
+Asia & Oceania,Pakistan,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2006.0,1.17,70200.0,154764.50805387
+Asia & Oceania,Republic of Korea,non-member,2006.0,135.03,8101800.0,17861411.55770433
+Asia & Oceania,Samoa,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2006.0,4.12,247200.0,544982.71212132
+Asia & Oceania,Singapore,non-member,2006.0,1888.34,113300400.0,249784624.90465373
+Asia & Oceania,Solomon Islands,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2006.0,6.45,387000.0,853188.95465595
+Asia & Oceania,Taiwan,non-member,2006.0,5.21,312600.0,689165.03159031
+Asia & Oceania,Tonga,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2006.0,12.34,740400.0,1632302.58921774
+Asia & Oceania,United Arab Emirates,non-member,2006.0,45.71,2742600.0,6046398.00268581
+Asia & Oceania,Uzbekistan,non-member,2006.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2006.0,0.01,600.0,1322.77357311
+Caribbean,Dominica,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2006.0,0.03,1800.0,3968.32071933
+Caribbean,Puerto Rico,non-member,2006.0,4.13,247800.0,546305.48569443
+Caribbean,Saint Kitts and Nevis,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2006.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2006.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2006.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2006.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2006.0,0.0,0.0,0.0
+Europe,Albania,non-member,2006.0,7.5,450000.0,992080.1798325
+Europe,Belarus,non-member,2006.0,10.45,627000.0,1382298.38389995
+Europe,Bosnia and Herzegovina,non-member,2006.0,11.33,679800.0,1498702.45833363
+Europe,Georgia,non-member,2006.0,0.79,47400.0,104499.11227569
+Europe,Gibraltar,non-member,2006.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2006.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2006.0,0.08,4800.0,10582.18858488
+Europe,North Macedonia,non-member,2006.0,1.21,72600.0,160055.60234631
+Europe,Republic of Moldova,non-member,2006.0,0.03,1800.0,3968.32071933
+Europe,Serbia,non-member,2006.0,5.42,325200.0,716943.27662562
+Europe,Ukraine,non-member,2006.0,20.78,1246800.0,2748723.48492258
+Europe,USSR,non-member,2006.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2006.0,0.0,0.0,0.0
+North America,Canada,non-member,2006.0,742.97,44578200.0,98278108.16135368
+South America,Argentina,non-member,2006.0,11.36,681600.0,1502670.77905296
+South America,Chile,non-member,2006.0,61.08,3664800.0,8079500.98455588
+South America,Suriname,non-member,2006.0,11.36,681600.0,1502670.77905296
+South America,Uruguay,non-member,2006.0,0.02,1200.0,2645.54714622
+Africa,Algeria,non-member,2007.0,0.0,0.0,0.0
+Africa,Botswana,non-member,2007.0,0.14,8400.0,18518.83002354
+Africa,Burkina Faso,non-member,2007.0,0.09,5400.0,11904.96215799
+Africa,Cabo Verde,non-member,2007.0,0.27,16200.0,35714.88647397
+Africa,Comoros,non-member,2007.0,1.0,60000.0,132277.357311
+Africa,Djibouti,non-member,2007.0,41.7,2502000.0,5515965.7998687
+Africa,Egypt,non-member,2007.0,1.89,113400.0,250004.20531779
+Africa,Eswatini,non-member,2007.0,1.82,109200.0,240744.79030602
+Africa,Gambia,non-member,2007.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2007.0,2.76,165600.0,365085.50617836
+Africa,Lesotho,non-member,2007.0,0.0,0.0,0.0
+Africa,Mali,non-member,2007.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2007.0,0.07,4200.0,9259.41501177
+Africa,Morocco,non-member,2007.0,138.51,8310600.0,18321736.76114661
+Africa,Mozambique,non-member,2007.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2007.0,0.31,18600.0,41005.98076641
+Africa,Niger,non-member,2007.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2007.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2007.0,6.56,393600.0,867739.46396016
+Africa,Seychelles,non-member,2007.0,0.01,600.0,1322.77357311
+Africa,Somalia,non-member,2007.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2007.0,135.63,8137800.0,17940777.97209093
+Africa,Sudan,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2007.0,119.25,7155000.0,15774074.85933675
+Asia & Oceania,Australia,non-member,2007.0,166.05,9963000.0,21964655.18149155
+Asia & Oceania,Azerbaijan,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2007.0,2.31,138600.0,305560.69538841
+Asia & Oceania,Bangladesh,non-member,2007.0,0.25,15000.0,33069.33932775
+Asia & Oceania,Brunei Darussalam,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Cambodia,non-member,2007.0,0.3,18000.0,39683.2071933
+Asia & Oceania,China (Mainland),non-member,2007.0,350.47,21028200.0,46359245.41678617
+Asia & Oceania,Hong Kong,non-member,2007.0,10.5,630000.0,1388912.2517655
+Asia & Oceania,Macao,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2007.0,0.07,4200.0,9259.41501177
+Asia & Oceania,Iran (Islamic Republic of),non-member,2007.0,1.31,78600.0,173283.33807741
+Asia & Oceania,Iraq,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2007.0,90.3,5418000.0,11944645.3651833
+Asia & Oceania,Jordan,non-member,2007.0,7.41,444600.0,980175.21767451
+Asia & Oceania,Kazakhstan,non-member,2007.0,1.21,72600.0,160055.60234631
+Asia & Oceania,Kuwait,non-member,2007.0,2.75,165000.0,363762.73260525
+Asia & Oceania,Kyrgyzstan,non-member,2007.0,1.34,80400.0,177251.65879674
+Asia & Oceania,Lebanon,non-member,2007.0,13.4,804000.0,1772516.5879674
+Asia & Oceania,Malaysia,non-member,2007.0,568.65,34119000.0,75219519.23490015
+Asia & Oceania,Mongolia,non-member,2007.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Myanmar,non-member,2007.0,1.48,88800.0,195770.48882028
+Asia & Oceania,New Zealand,non-member,2007.0,3.21,192600.0,424610.31696831
+Asia & Oceania,Oman,non-member,2007.0,3.22,193200.0,425933.09054142
+Asia & Oceania,Pakistan,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2007.0,1.11,66600.0,146827.86661521
+Asia & Oceania,Republic of Korea,non-member,2007.0,162.01,9720600.0,21430254.65795511
+Asia & Oceania,Samoa,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2007.0,1.23,73800.0,162701.14949253
+Asia & Oceania,Singapore,non-member,2007.0,1574.02,94441200.0,208207205.9546602
+Asia & Oceania,Solomon Islands,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2007.0,6.32,379200.0,835992.89820552
+Asia & Oceania,Taiwan,non-member,2007.0,35.17,2110200.0,4652194.65662787
+Asia & Oceania,Tonga,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2007.0,14.14,848400.0,1870401.83237754
+Asia & Oceania,United Arab Emirates,non-member,2007.0,43.97,2638200.0,5816235.40096467
+Asia & Oceania,Uzbekistan,non-member,2007.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2007.0,0.01,600.0,1322.77357311
+Caribbean,Dominica,non-member,2007.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2007.0,0.03,1800.0,3968.32071933
+Caribbean,Puerto Rico,non-member,2007.0,4.62,277200.0,611121.39077682
+Caribbean,Saint Kitts and Nevis,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2007.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2007.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2007.0,0.03,1800.0,3968.32071933
+Central America & Mexico,Bermuda,non-member,2007.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2007.0,0.0,0.0,0.0
+Europe,Albania,non-member,2007.0,7.7,462000.0,1018535.6512947
+Europe,Belarus,non-member,2007.0,6.39,383400.0,845252.31321729
+Europe,Bosnia and Herzegovina,non-member,2007.0,12.7,762000.0,1679922.4378497
+Europe,Georgia,non-member,2007.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,2007.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2007.0,0.0,0.0,0.0
+Europe,Montenegro,non-member,2007.0,0.17,10200.0,22487.15074287
+Europe,North Macedonia,non-member,2007.0,1.8,108000.0,238099.2431598
+Europe,Republic of Moldova,non-member,2007.0,0.01,600.0,1322.77357311
+Europe,Serbia,non-member,2007.0,5.57,334200.0,736784.88022227
+Europe,Ukraine,non-member,2007.0,27.85,1671000.0,3683924.40111135
+Europe,USSR,non-member,2007.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2007.0,0.0,0.0,0.0
+North America,Canada,non-member,2007.0,657.18,39430800.0,86930033.67764299
+South America,Argentina,non-member,2007.0,5.68,340800.0,751335.38952648
+South America,Chile,non-member,2007.0,57.99,3479400.0,7670763.95046489
+South America,Suriname,non-member,2007.0,7.88,472800.0,1042345.57561068
+South America,Uruguay,non-member,2007.0,0.0,0.0,0.0
+Africa,Algeria,non-member,2008.0,0.02,1200.0,2645.54714622
+Africa,Botswana,non-member,2008.0,0.37,22200.0,48942.62220507
+Africa,Burkina Faso,non-member,2008.0,0.09,5400.0,11904.96215799
+Africa,Cabo Verde,non-member,2008.0,0.61,36600.0,80689.18795971
+Africa,Comoros,non-member,2008.0,0.43,25800.0,56879.26364373
+Africa,Djibouti,non-member,2008.0,47.22,2833200.0,6246136.81222542
+Africa,Egypt,non-member,2008.0,52.81,3168600.0,6985567.23959391
+Africa,Eswatini,non-member,2008.0,0.05,3000.0,6613.86786555
+Africa,Gambia,non-member,2008.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2008.0,2.5,150000.0,330693.3932775
+Africa,Lesotho,non-member,2008.0,0.0,0.0,0.0
+Africa,Mali,non-member,2008.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2008.0,0.05,3000.0,6613.86786555
+Africa,Morocco,non-member,2008.0,114.88,6892800.0,15196022.80788768
+Africa,Mozambique,non-member,2008.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2008.0,0.13,7800.0,17196.056450430002
+Africa,Niger,non-member,2008.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2008.0,0.01,600.0,1322.77357311
+Africa,Senegal,non-member,2008.0,3.2,192000.0,423287.5433952
+Africa,Seychelles,non-member,2008.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2008.0,0.03,1800.0,3968.32071933
+Africa,South Africa,non-member,2008.0,53.18,3190800.0,7034509.86179898
+Africa,Sudan,non-member,2008.0,0.32,19200.0,42328.75433952
+Asia & Oceania,Abu Dhabi,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2008.0,102.84,6170400.0,13603403.42586324
+Asia & Oceania,Australia,non-member,2008.0,134.06,8043600.0,17733102.52111266
+Asia & Oceania,Azerbaijan,non-member,2008.0,0.01,600.0,1322.77357311
+Asia & Oceania,Bahrain,non-member,2008.0,1.65,99000.0,218257.63956315
+Asia & Oceania,Bangladesh,non-member,2008.0,0.19,11400.0,25132.69788909
+Asia & Oceania,Brunei Darussalam,non-member,2008.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Cambodia,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2008.0,404.43,24265800.0,53496931.61728773
+Asia & Oceania,Hong Kong,non-member,2008.0,10.24,614400.0,1354520.13886464
+Asia & Oceania,Macao,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2008.0,0.12,7200.0,15873.28287732
+Asia & Oceania,Iran (Islamic Republic of),non-member,2008.0,1.31,78600.0,173283.33807741
+Asia & Oceania,Iraq,non-member,2008.0,0.01,600.0,1322.77357311
+Asia & Oceania,Israel,non-member,2008.0,75.11,4506600.0,9935352.30762921
+Asia & Oceania,Jordan,non-member,2008.0,13.33,799800.0,1763257.17295563
+Asia & Oceania,Kazakhstan,non-member,2008.0,1.16,69600.0,153441.73448076
+Asia & Oceania,Kuwait,non-member,2008.0,1.79,107400.0,236776.46958669001
+Asia & Oceania,Kyrgyzstan,non-member,2008.0,0.23,13800.0,30423.79218153
+Asia & Oceania,Lebanon,non-member,2008.0,13.91,834600.0,1839978.04019601
+Asia & Oceania,Malaysia,non-member,2008.0,794.59,47675400.0,105106265.34574749
+Asia & Oceania,Mongolia,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2008.0,0.94,56400.0,124340.71587234
+Asia & Oceania,New Zealand,non-member,2008.0,5.28,316800.0,698424.44660208
+Asia & Oceania,Oman,non-member,2008.0,2.25,135000.0,297624.05394975
+Asia & Oceania,Pakistan,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2008.0,0.32,19200.0,42328.75433952
+Asia & Oceania,Republic of Korea,non-member,2008.0,180.73,10843800.0,23906486.78681703
+Asia & Oceania,Samoa,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2008.0,22.09,1325400.0,2922006.82299999
+Asia & Oceania,Singapore,non-member,2008.0,713.48,42808800.0,94377248.89425229
+Asia & Oceania,Solomon Islands,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2008.0,7.72,463200.0,1021181.19844092
+Asia & Oceania,Taiwan,non-member,2008.0,57.12,3427200.0,7555682.6496043205
+Asia & Oceania,Tonga,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2008.0,15.98,958800.0,2113792.1698297802
+Asia & Oceania,United Arab Emirates,non-member,2008.0,35.91,2154600.0,4750079.90103801
+Asia & Oceania,Uzbekistan,non-member,2008.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2008.0,0.05,3000.0,6613.86786555
+Caribbean,Anguilla,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2008.0,0.01,600.0,1322.77357311
+Caribbean,Barbados,non-member,2008.0,0.02,1200.0,2645.54714622
+Caribbean,Dominica,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2008.0,0.02,1200.0,2645.54714622
+Caribbean,Puerto Rico,non-member,2008.0,6.66,399600.0,880967.19969126
+Caribbean,Saint Kitts and Nevis,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2008.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2008.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2008.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2008.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2008.0,0.0,0.0,0.0
+Europe,Albania,non-member,2008.0,6.89,413400.0,911390.99187279
+Europe,Belarus,non-member,2008.0,3.83,229800.0,506622.27850113
+Europe,Bosnia and Herzegovina,non-member,2008.0,17.13,1027800.0,2265911.13073743
+Europe,Georgia,non-member,2008.0,0.02,1200.0,2645.54714622
+Europe,Gibraltar,non-member,2008.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2008.0,0.07,4200.0,9259.41501177
+Europe,Montenegro,non-member,2008.0,0.28,16800.0,37037.66004708
+Europe,North Macedonia,non-member,2008.0,2.66,159600.0,351857.77044726
+Europe,Republic of Moldova,non-member,2008.0,0.0,0.0,0.0
+Europe,Serbia,non-member,2008.0,10.1,606000.0,1336001.3088411
+Europe,Ukraine,non-member,2008.0,96.29,5777400.0,12736986.73547619
+Europe,USSR,non-member,2008.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2008.0,0.0,0.0,0.0
+North America,Canada,non-member,2008.0,595.26,35715600.0,78739419.71294586
+South America,Argentina,non-member,2008.0,5.37,322200.0,710329.40876007
+South America,Chile,non-member,2008.0,70.48,4228800.0,9322908.14327928
+South America,Suriname,non-member,2008.0,6.34,380400.0,838638.44535174
+South America,Uruguay,non-member,2008.0,0.01,600.0,1322.77357311
+Africa,Algeria,non-member,2009.0,0.01,600.0,1322.77357311
+Africa,Botswana,non-member,2009.0,0.26,15600.0,34392.112900860004
+Africa,Burkina Faso,non-member,2009.0,0.22,13200.0,29101.01860842
+Africa,Cabo Verde,non-member,2009.0,0.51,30600.0,67461.45222861
+Africa,Comoros,non-member,2009.0,0.43,25800.0,56879.26364373
+Africa,Djibouti,non-member,2009.0,22.26,1335600.0,2944493.97374286
+Africa,Egypt,non-member,2009.0,119.73,7183800.0,15837567.99084603
+Africa,Eswatini,non-member,2009.0,0.37,22200.0,48942.62220507
+Africa,Gambia,non-member,2009.0,0.05,3000.0,6613.86786555
+Africa,Guinea-Bissau,non-member,2009.0,0.04,2400.0,5291.09429244
+Africa,Lesotho,non-member,2009.0,0.0,0.0,0.0
+Africa,Mali,non-member,2009.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2009.0,0.27,16200.0,35714.88647397
+Africa,Morocco,non-member,2009.0,134.08,8044800.0,17735748.06825888
+Africa,Mozambique,non-member,2009.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2009.0,0.38,22800.0,50265.39577818
+Africa,Niger,non-member,2009.0,0.14,8400.0,18518.83002354
+Africa,Sao Tome and Principe,non-member,2009.0,0.1,6000.0,13227.7357311
+Africa,Senegal,non-member,2009.0,1.65,99000.0,218257.63956315
+Africa,Seychelles,non-member,2009.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2009.0,0.39,23400.0,51588.16935129
+Africa,South Africa,non-member,2009.0,35.83,2149800.0,4739497.71245313
+Africa,Sudan,non-member,2009.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Abu Dhabi,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2009.0,60.74,3644400.0,8034526.68307014
+Asia & Oceania,Australia,non-member,2009.0,139.69,8381400.0,18477824.04277359
+Asia & Oceania,Azerbaijan,non-member,2009.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Bahrain,non-member,2009.0,1.29,77400.0,170637.79093119001
+Asia & Oceania,Bangladesh,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2009.0,0.05,3000.0,6613.86786555
+Asia & Oceania,Cambodia,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2009.0,562.72,33763200.0,74435114.50604592
+Asia & Oceania,Hong Kong,non-member,2009.0,5.21,312600.0,689165.03159031
+Asia & Oceania,Macao,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2009.0,0.11,6600.0,14550.50930421
+Asia & Oceania,Iran (Islamic Republic of),non-member,2009.0,11.22,673200.0,1484151.94902942
+Asia & Oceania,Iraq,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2009.0,49.29,2957400.0,6519950.94185919
+Asia & Oceania,Jordan,non-member,2009.0,33.39,2003400.0,4416740.96061429
+Asia & Oceania,Kazakhstan,non-member,2009.0,7.83,469800.0,1035731.70774513
+Asia & Oceania,Kuwait,non-member,2009.0,3.35,201000.0,443129.14699185
+Asia & Oceania,Kyrgyzstan,non-member,2009.0,0.69,41400.0,91271.37654459
+Asia & Oceania,Lebanon,non-member,2009.0,12.08,724800.0,1597910.47631688
+Asia & Oceania,Malaysia,non-member,2009.0,1312.05,78723000.0,173554506.65989757
+Asia & Oceania,Mongolia,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2009.0,0.34,20400.0,44974.30148574
+Asia & Oceania,New Zealand,non-member,2009.0,35.73,2143800.0,4726269.97672203
+Asia & Oceania,Oman,non-member,2009.0,1.35,81000.0,178574.43236985
+Asia & Oceania,Pakistan,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2009.0,0.51,30600.0,67461.45222861
+Asia & Oceania,Republic of Korea,non-member,2009.0,247.97,14878200.0,32800816.29240867
+Asia & Oceania,Samoa,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2009.0,27.55,1653000.0,3644241.19391805
+Asia & Oceania,Singapore,non-member,2009.0,519.19,31151400.000000004,68677081.1422981
+Asia & Oceania,Solomon Islands,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2009.0,16.93,1015800.0,2239455.65927523
+Asia & Oceania,Taiwan,non-member,2009.0,64.5,3870000.0,8531889.5465595
+Asia & Oceania,Tonga,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2009.0,12.78,766800.0,1690504.62643458
+Asia & Oceania,United Arab Emirates,non-member,2009.0,27.18,1630800.0,3595298.57171298
+Asia & Oceania,Uzbekistan,non-member,2009.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2009.0,0.06,3600.0,7936.64143866
+Caribbean,Anguilla,non-member,2009.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2009.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2009.0,0.02,1200.0,2645.54714622
+Caribbean,Bahamas,non-member,2009.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2009.0,0.07,4200.0,9259.41501177
+Caribbean,Dominica,non-member,2009.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2009.0,0.11,6600.0,14550.50930421
+Caribbean,Netherlands Antilles (former),non-member,2009.0,0.06,3600.0,7936.64143866
+Caribbean,Puerto Rico,non-member,2009.0,3.5,210000.0,462970.7505885
+Caribbean,Saint Kitts and Nevis,non-member,2009.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2009.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2009.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2009.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2009.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2009.0,0.0,0.0,0.0
+Europe,Albania,non-member,2009.0,3.66,219600.0,484135.12775826
+Europe,Belarus,non-member,2009.0,2.58,154800.0,341275.58186238003
+Europe,Bosnia and Herzegovina,non-member,2009.0,18.08,1084800.0,2391574.62018288
+Europe,Georgia,non-member,2009.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,2009.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2009.0,0.02,1200.0,2645.54714622
+Europe,Montenegro,non-member,2009.0,0.27,16200.0,35714.88647397
+Europe,North Macedonia,non-member,2009.0,1.82,109200.0,240744.79030602
+Europe,Republic of Moldova,non-member,2009.0,0.08,4800.0,10582.18858488
+Europe,Serbia,non-member,2009.0,6.72,403200.0,888903.84112992
+Europe,Ukraine,non-member,2009.0,80.82,4849200.0,10690656.01787502
+Europe,USSR,non-member,2009.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2009.0,0.0,0.0,0.0
+North America,Canada,non-member,2009.0,623.33,37399800.0,82452445.13266563
+South America,Argentina,non-member,2009.0,3.88,232800.0,513236.14636668
+South America,Chile,non-member,2009.0,51.16,3069600.0,6767309.60003076
+South America,Suriname,non-member,2009.0,6.0,360000.0,793664.143866
+South America,Uruguay,non-member,2009.0,0.01,600.0,1322.77357311
+Africa,Algeria,non-member,2010.0,0.04,2400.0,5291.09429244
+Africa,Botswana,non-member,2010.0,0.37,22200.0,48942.62220507
+Africa,Burkina Faso,non-member,2010.0,1.82,109200.0,240744.79030602
+Africa,Cabo Verde,non-member,2010.0,0.14,8400.0,18518.83002354
+Africa,Comoros,non-member,2010.0,0.43,25800.0,56879.26364373
+Africa,Djibouti,non-member,2010.0,48.2,2892000.0,6375768.6223902
+Africa,Egypt,non-member,2010.0,253.02,15181200.0,33468816.946829222
+Africa,Eswatini,non-member,2010.0,4.29,257400.0,567469.86286419
+Africa,Gambia,non-member,2010.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2010.0,7.86,471600.0,1039700.02846446
+Africa,Lesotho,non-member,2010.0,0.0,0.0,0.0
+Africa,Mali,non-member,2010.0,0.85,51000.0,112435.75371435
+Africa,Mauritius,non-member,2010.0,0.33,19800.0,43651.52791263
+Africa,Morocco,non-member,2010.0,104.63,6277800.0,13840179.89544993
+Africa,Mozambique,non-member,2010.0,0.02,1200.0,2645.54714622
+Africa,Namibia,non-member,2010.0,0.22,13200.0,29101.01860842
+Africa,Niger,non-member,2010.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2010.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2010.0,0.57,34200.0,75398.09366727
+Africa,Seychelles,non-member,2010.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2010.0,0.02,1200.0,2645.54714622
+Africa,South Africa,non-member,2010.0,39.88,2392800.0,5275221.0095626805
+Africa,Sudan,non-member,2010.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Abu Dhabi,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2010.0,34.53,2071800.0,4567537.14794883
+Asia & Oceania,Australia,non-member,2010.0,143.09,8585400.0,18927567.05763099
+Asia & Oceania,Azerbaijan,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2010.0,1.49,89400.0,197093.26239339
+Asia & Oceania,Bangladesh,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2010.0,0.06,3600.0,7936.64143866
+Asia & Oceania,Cambodia,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2010.0,555.05,33303000.0,73420547.17547055
+Asia & Oceania,Hong Kong,non-member,2010.0,6.13,367800.0,810860.20031643
+Asia & Oceania,Macao,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2010.0,0.25,15000.0,33069.33932775
+Asia & Oceania,Iran (Islamic Republic of),non-member,2010.0,31.98,1918800.0,4230229.88680578
+Asia & Oceania,Iraq,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2010.0,75.26,4515600.0,9955193.911225861
+Asia & Oceania,Jordan,non-member,2010.0,22.11,1326600.0,2924652.37014621
+Asia & Oceania,Kazakhstan,non-member,2010.0,23.53,1411800.0,3112486.21752783
+Asia & Oceania,Kuwait,non-member,2010.0,0.59,35400.0,78043.64081349
+Asia & Oceania,Kyrgyzstan,non-member,2010.0,1.5,90000.0,198416.0359665
+Asia & Oceania,Lebanon,non-member,2010.0,12.7,762000.0,1679922.4378497
+Asia & Oceania,Malaysia,non-member,2010.0,1731.78,103906800.0,229075281.84404358
+Asia & Oceania,Mongolia,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2010.0,1.38,82800.0,182542.75308918
+Asia & Oceania,New Zealand,non-member,2010.0,23.94,1436400.0,3166719.9340253402
+Asia & Oceania,Oman,non-member,2010.0,0.64,38400.0,84657.50867904
+Asia & Oceania,Pakistan,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2010.0,1.46,87600.0,193124.94167406
+Asia & Oceania,Republic of Korea,non-member,2010.0,344.53,20671800.0,45573517.91435883
+Asia & Oceania,Samoa,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2010.0,36.79,2207400.0,4866483.97547169
+Asia & Oceania,Singapore,non-member,2010.0,581.52,34891200.0,76921928.82349272
+Asia & Oceania,Solomon Islands,non-member,2010.0,0.01,600.0,1322.77357311
+Asia & Oceania,Syrian Arab Republic,non-member,2010.0,5.72,343200.0,756626.48381892
+Asia & Oceania,Taiwan,non-member,2010.0,65.46,3927599.9999999995,8658875.80957806
+Asia & Oceania,Tonga,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2010.0,15.78,946800.0,2087336.69836758
+Asia & Oceania,United Arab Emirates,non-member,2010.0,46.91,2814600.0,6205130.83145901
+Asia & Oceania,Uzbekistan,non-member,2010.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2010.0,0.06,3600.0,7936.64143866
+Caribbean,Anguilla,non-member,2010.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2010.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2010.0,0.06,3600.0,7936.64143866
+Caribbean,Bahamas,non-member,2010.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2010.0,0.07,4200.0,9259.41501177
+Caribbean,Dominica,non-member,2010.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2010.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2010.0,0.12,7200.0,15873.28287732
+Caribbean,Puerto Rico,non-member,2010.0,4.18,250800.0,552919.35355998
+Caribbean,Saint Kitts and Nevis,non-member,2010.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2010.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2010.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2010.0,0.35,21000.0,46297.07505885
+Central America & Mexico,Bermuda,non-member,2010.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2010.0,0.0,0.0,0.0
+Europe,Albania,non-member,2010.0,1.59,95400.0,210320.99812449
+Europe,Belarus,non-member,2010.0,1.35,81000.0,178574.43236985
+Europe,Bosnia and Herzegovina,non-member,2010.0,19.62,1177200.0,2595281.75044182
+Europe,Georgia,non-member,2010.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,2010.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2010.0,0.03,1800.0,3968.32071933
+Europe,Montenegro,non-member,2010.0,0.2,12000.0,26455.4714622
+Europe,North Macedonia,non-member,2010.0,1.77,106200.0,234130.92244047
+Europe,Republic of Moldova,non-member,2010.0,0.29,17400.0,38360.43362019
+Europe,Serbia,non-member,2010.0,7.6,456000.0,1005307.9155636
+Europe,Ukraine,non-member,2010.0,103.04,6182400.0,13629858.89732544
+Europe,USSR,non-member,2010.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2010.0,0.0,0.0,0.0
+North America,Canada,non-member,2010.0,779.71,46782600.0,103137978.2689598
+South America,Argentina,non-member,2010.0,5.19,311400.0,686519.48444409
+South America,Chile,non-member,2010.0,65.5,3930000.0,8664166.9038705
+South America,Suriname,non-member,2010.0,3.03,181800.0,400800.39265233
+South America,Uruguay,non-member,2010.0,0.03,1800.0,3968.32071933
+Africa,Algeria,non-member,2011.0,0.07,4200.0,9259.41501177
+Africa,Botswana,non-member,2011.0,0.17,10200.0,22487.15074287
+Africa,Burkina Faso,non-member,2011.0,2.28,136800.0,301592.37466908
+Africa,Cabo Verde,non-member,2011.0,0.02,1200.0,2645.54714622
+Africa,Comoros,non-member,2011.0,0.77,46200.0,101853.56512947001
+Africa,Djibouti,non-member,2011.0,23.27,1396200.0,3078094.10462697
+Africa,Egypt,non-member,2011.0,371.55,22293000.0,49147652.10890205
+Africa,Eswatini,non-member,2011.0,0.67,40200.0,88625.82939837
+Africa,Gambia,non-member,2011.0,2.25,135000.0,297624.05394975
+Africa,Guinea-Bissau,non-member,2011.0,3.06,183600.0,404768.71337166
+Africa,Lesotho,non-member,2011.0,0.0,0.0,0.0
+Africa,Mali,non-member,2011.0,6.15,369000.0,813505.7474626501
+Africa,Mauritius,non-member,2011.0,0.31,18600.0,41005.98076641
+Africa,Morocco,non-member,2011.0,108.96,6537600.0,14412940.852606561
+Africa,Mozambique,non-member,2011.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2011.0,0.21,12600.0,27778.24503531
+Africa,Niger,non-member,2011.0,0.0,0.0,0.0
+Africa,Sao Tome and Principe,non-member,2011.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2011.0,2.75,165000.0,363762.73260525
+Africa,Seychelles,non-member,2011.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2011.0,0.02,1200.0,2645.54714622
+Africa,South Africa,non-member,2011.0,35.38,2122800.0,4679972.90166318
+Africa,Sudan,non-member,2011.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Abu Dhabi,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2011.0,28.54,1712400.0,3775195.77765594
+Asia & Oceania,Australia,non-member,2011.0,157.05,9423000.0,20774158.96569255
+Asia & Oceania,Azerbaijan,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2011.0,1.34,80400.0,177251.65879674
+Asia & Oceania,Bangladesh,non-member,2011.0,0.08,4800.0,10582.18858488
+Asia & Oceania,Brunei Darussalam,non-member,2011.0,0.16,9600.0,21164.37716976
+Asia & Oceania,Cambodia,non-member,2011.0,0.02,1200.0,2645.54714622
+Asia & Oceania,China (Mainland),non-member,2011.0,640.4,38424000.0,84710419.6219644
+Asia & Oceania,Hong Kong,non-member,2011.0,16.58,994800.0,2193158.58421638
+Asia & Oceania,Macao,non-member,2011.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Dubai,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2011.0,1.02,61200.0,134922.90445722
+Asia & Oceania,Iran (Islamic Republic of),non-member,2011.0,7.89,473400.0,1043668.34918379
+Asia & Oceania,Iraq,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2011.0,55.88,3352800.0,7391658.7265386805
+Asia & Oceania,Jordan,non-member,2011.0,58.89,3533400.0,7789813.57204479
+Asia & Oceania,Kazakhstan,non-member,2011.0,14.2,852000.0,1878338.4738162
+Asia & Oceania,Kuwait,non-member,2011.0,3.92,235200.0,518527.24065912
+Asia & Oceania,Kyrgyzstan,non-member,2011.0,2.01,120599.99999999999,265877.48819511
+Asia & Oceania,Lebanon,non-member,2011.0,25.65,1539000.0,3392914.21502715
+Asia & Oceania,Malaysia,non-member,2011.0,1200.44,72026400.0,158791030.81041685
+Asia & Oceania,Mongolia,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2011.0,1.95,117000.0,257940.84675645
+Asia & Oceania,New Zealand,non-member,2011.0,27.95,1677000.0,3697152.13684245
+Asia & Oceania,Oman,non-member,2011.0,0.48,28800.0,63493.13150928
+Asia & Oceania,Pakistan,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Qatar,non-member,2011.0,0.66,39600.0,87303.05582526
+Asia & Oceania,Republic of Korea,non-member,2011.0,545.12,32707200.0,72107033.01737233
+Asia & Oceania,Samoa,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2011.0,31.94,1916400.0,4224938.79251334
+Asia & Oceania,Singapore,non-member,2011.0,675.65,40539000.0,89373196.46717715
+Asia & Oceania,Solomon Islands,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2011.0,17.05,1023000.0,2255328.94215255
+Asia & Oceania,Taiwan,non-member,2011.0,72.85,4371000.0,9636405.48010635
+Asia & Oceania,Tonga,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2011.0,23.02,1381200.0,3045024.76529922
+Asia & Oceania,United Arab Emirates,non-member,2011.0,51.39,3083400.0,6797733.39221229
+Asia & Oceania,Uzbekistan,non-member,2011.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2011.0,0.68,40800.0,89948.60297148
+Caribbean,Anguilla,non-member,2011.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2011.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2011.0,0.03,1800.0,3968.32071933
+Caribbean,Bahamas,non-member,2011.0,0.36,21600.0,47619.84863196
+Caribbean,Barbados,non-member,2011.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2011.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2011.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2011.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2011.0,3.19,191400.0,421964.76982209
+Caribbean,Saint Kitts and Nevis,non-member,2011.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2011.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2011.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2011.0,0.01,600.0,1322.77357311
+Central America & Mexico,Bermuda,non-member,2011.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2011.0,0.04,2400.0,5291.09429244
+Europe,Albania,non-member,2011.0,0.59,35400.0,78043.64081349
+Europe,Belarus,non-member,2011.0,5.29,317400.0,699747.22017519
+Europe,Bosnia and Herzegovina,non-member,2011.0,16.14,968400.0,2134956.54699954
+Europe,Georgia,non-member,2011.0,0.82,49200.0,108467.43299502
+Europe,Gibraltar,non-member,2011.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2011.0,0.04,2400.0,5291.09429244
+Europe,Montenegro,non-member,2011.0,3.26,195600.0,431224.18483386
+Europe,North Macedonia,non-member,2011.0,3.41,204600.0,451065.78843051003
+Europe,Republic of Moldova,non-member,2011.0,0.39,23400.0,51588.16935129
+Europe,Serbia,non-member,2011.0,8.85,531000.0,1170654.61220235
+Europe,Ukraine,non-member,2011.0,47.63,2857800.0,6300370.52872293
+Europe,USSR,non-member,2011.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2011.0,0.0,0.0,0.0
+North America,Canada,non-member,2011.0,967.89,58073400.0,128029931.36774379
+South America,Argentina,non-member,2011.0,5.3,318000.0,701069.9937483
+South America,Chile,non-member,2011.0,52.58,3154800.0,6955143.44741238
+South America,Suriname,non-member,2011.0,3.97,238200.0,525141.10852467
+South America,Uruguay,non-member,2011.0,0.0,0.0,0.0
+Africa,Algeria,non-member,2012.0,0.08,4800.0,10582.18858488
+Africa,Botswana,non-member,2012.0,0.17,10200.0,22487.15074287
+Africa,Burkina Faso,non-member,2012.0,4.62,277200.0,611121.39077682
+Africa,Cabo Verde,non-member,2012.0,0.05,3000.0,6613.86786555
+Africa,Comoros,non-member,2012.0,0.77,46200.0,101853.56512947001
+Africa,Djibouti,non-member,2012.0,19.69,1181400.0,2604541.16545359
+Africa,Egypt,non-member,2012.0,242.7,14562000.0,32103714.6193797
+Africa,Eswatini,non-member,2012.0,0.04,2400.0,5291.09429244
+Africa,Gambia,non-member,2012.0,1.84,110400.0,243390.33745224
+Africa,Guinea-Bissau,non-member,2012.0,0.8,48000.0,105821.8858488
+Africa,Lesotho,non-member,2012.0,0.0,0.0,0.0
+Africa,Mali,non-member,2012.0,3.51,210600.0,464293.52416161
+Africa,Mauritius,non-member,2012.0,0.11,6600.0,14550.50930421
+Africa,Morocco,non-member,2012.0,105.45,6327000.0,13948647.32844495
+Africa,Mozambique,non-member,2012.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2012.0,0.67,40200.0,88625.82939837
+Africa,Niger,non-member,2012.0,0.06,3600.0,7936.64143866
+Africa,Sao Tome and Principe,non-member,2012.0,0.0,0.0,0.0
+Africa,Senegal,non-member,2012.0,5.58,334800.0,738107.65379538
+Africa,Seychelles,non-member,2012.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2012.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2012.0,37.83,2269800.0,5004052.42707513
+Africa,Sudan,non-member,2012.0,0.06,3600.0,7936.64143866
+Asia & Oceania,Abu Dhabi,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2012.0,26.73,1603800.0,3535773.76092303
+Asia & Oceania,Australia,non-member,2012.0,135.5,8130000.0,17923581.9156405
+Asia & Oceania,Azerbaijan,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2012.0,1.57,94200.0,207675.45097827
+Asia & Oceania,Bangladesh,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2012.0,0.05,3000.0,6613.86786555
+Asia & Oceania,Cambodia,non-member,2012.0,0.02,1200.0,2645.54714622
+Asia & Oceania,China (Mainland),non-member,2012.0,1052.19,63131400.0,139180912.58906108
+Asia & Oceania,Hong Kong,non-member,2012.0,20.78,1246800.0,2748723.48492258
+Asia & Oceania,Macao,non-member,2012.0,0.29,17400.0,38360.43362019
+Asia & Oceania,Dubai,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2012.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Iran (Islamic Republic of),non-member,2012.0,3.49,209400.0,461647.97701539
+Asia & Oceania,Iraq,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2012.0,90.23,5413800.0,11935385.95017153
+Asia & Oceania,Jordan,non-member,2012.0,62.59,3755400.0,8279239.79409549
+Asia & Oceania,Kazakhstan,non-member,2012.0,26.32,1579200.0,3481540.04442552
+Asia & Oceania,Kuwait,non-member,2012.0,2.81,168600.0,371699.37404391
+Asia & Oceania,Kyrgyzstan,non-member,2012.0,0.45,27000.0,59524.81078995
+Asia & Oceania,Lebanon,non-member,2012.0,33.69,2021400.0,4456424.16780759
+Asia & Oceania,Malaysia,non-member,2012.0,1342.14,80528400.0,177534732.34138554
+Asia & Oceania,Mongolia,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2012.0,0.7,42000.0,92594.1501177
+Asia & Oceania,New Zealand,non-member,2012.0,8.55,513000.0,1130971.40500905
+Asia & Oceania,Oman,non-member,2012.0,1.04,62400.0,137568.45160344001
+Asia & Oceania,Pakistan,non-member,2012.0,0.63,37800.0,83334.73510593
+Asia & Oceania,Qatar,non-member,2012.0,1.49,89400.0,197093.26239339
+Asia & Oceania,Republic of Korea,non-member,2012.0,392.75,23565000.0,51951932.08389525
+Asia & Oceania,Samoa,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2012.0,29.08,1744800.0,3846625.55060388
+Asia & Oceania,Singapore,non-member,2012.0,676.06,40563600.0,89427430.18367466
+Asia & Oceania,Solomon Islands,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2012.0,21.6,1296000.0,2857190.9179176
+Asia & Oceania,Taiwan,non-member,2012.0,80.1,4806000.0,10595416.3206111
+Asia & Oceania,Tonga,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2012.0,42.65,2559000.0,5641629.28931415
+Asia & Oceania,United Arab Emirates,non-member,2012.0,26.1,1566000.0,3452439.0258171
+Asia & Oceania,Uzbekistan,non-member,2012.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2012.0,0.05,3000.0,6613.86786555
+Caribbean,Anguilla,non-member,2012.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2012.0,0.01,600.0,1322.77357311
+Caribbean,Aruba,non-member,2012.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2012.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2012.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2012.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2012.0,0.02,1200.0,2645.54714622
+Caribbean,Netherlands Antilles (former),non-member,2012.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2012.0,3.15,189000.0,416673.67552965
+Caribbean,Saint Kitts and Nevis,non-member,2012.0,0.01,600.0,1322.77357311
+Caribbean,Saint Lucia,non-member,2012.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2012.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2012.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2012.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2012.0,0.29,17400.0,38360.43362019
+Europe,Albania,non-member,2012.0,0.63,37800.0,83334.73510593
+Europe,Belarus,non-member,2012.0,9.32,559200.0,1232824.97013852
+Europe,Bosnia and Herzegovina,non-member,2012.0,14.47,868200.0,1914053.36029017
+Europe,Georgia,non-member,2012.0,0.85,51000.0,112435.75371435
+Europe,Gibraltar,non-member,2012.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2012.0,0.04,2400.0,5291.09429244
+Europe,Montenegro,non-member,2012.0,4.45,267000.0,588634.24003395
+Europe,North Macedonia,non-member,2012.0,4.61,276600.0,609798.61720371
+Europe,Republic of Moldova,non-member,2012.0,0.49,29400.0,64815.90508239
+Europe,Serbia,non-member,2012.0,16.93,1015800.0,2239455.65927523
+Europe,Ukraine,non-member,2012.0,55.51,3330600.0,7342716.10433361
+Europe,USSR,non-member,2012.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2012.0,0.0,0.0,0.0
+North America,Canada,non-member,2012.0,945.13,56707800.0,125019298.71534543
+South America,Argentina,non-member,2012.0,4.25,255000.0,562178.76857175
+South America,Chile,non-member,2012.0,17.81,1068600.0,2355859.73370891
+South America,Suriname,non-member,2012.0,1.13,67800.0,149473.41376143
+South America,Uruguay,non-member,2012.0,0.84,50400.0,111112.98014124
+Africa,Algeria,non-member,2013.0,0.0,0.0,0.0
+Africa,Botswana,non-member,2013.0,0.05,3000.0,6613.86786555
+Africa,Burkina Faso,non-member,2013.0,7.83,469800.0,1035731.70774513
+Africa,Cabo Verde,non-member,2013.0,0.07,4200.0,9259.41501177
+Africa,Comoros,non-member,2013.0,0.97,58200.0,128309.03659167
+Africa,Djibouti,non-member,2013.0,24.7,1482000.0,3267250.7255817
+Africa,Egypt,non-member,2013.0,309.5,18570000.0,40939842.0877545
+Africa,Eswatini,non-member,2013.0,1.81,108600.0,239422.01673291
+Africa,Gambia,non-member,2013.0,0.5,30000.0,66138.6786555
+Africa,Guinea-Bissau,non-member,2013.0,0.32,19200.0,42328.75433952
+Africa,Lesotho,non-member,2013.0,0.0,0.0,0.0
+Africa,Mali,non-member,2013.0,0.15,9000.0,19841.60359665
+Africa,Mauritius,non-member,2013.0,0.09,5400.0,11904.96215799
+Africa,Morocco,non-member,2013.0,85.95,5157000.0,11369238.86088045
+Africa,Mozambique,non-member,2013.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2013.0,0.19,11400.0,25132.69788909
+Africa,Niger,non-member,2013.0,0.08,4800.0,10582.18858488
+Africa,Sao Tome and Principe,non-member,2013.0,0.03,1800.0,3968.32071933
+Africa,Senegal,non-member,2013.0,6.45,387000.0,853188.95465595
+Africa,Seychelles,non-member,2013.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2013.0,0.05,3000.0,6613.86786555
+Africa,South Africa,non-member,2013.0,99.91,5994600.0,13215830.76894201
+Africa,Sudan,non-member,2013.0,0.43,25800.0,56879.26364373
+Asia & Oceania,Abu Dhabi,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2013.0,25.42,1525200.0,3362490.42284562
+Asia & Oceania,Australia,non-member,2013.0,124.99,7499400.0,16533346.89030189
+Asia & Oceania,Azerbaijan,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2013.0,1.05,63000.0,138891.22517655
+Asia & Oceania,Bangladesh,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2013.0,0.07,4200.0,9259.41501177
+Asia & Oceania,Cambodia,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2013.0,1304.35,78261000.0,172535971.00860286
+Asia & Oceania,Hong Kong,non-member,2013.0,29.26,1755600.0,3870435.4749198603
+Asia & Oceania,Macao,non-member,2013.0,0.01,600.0,1322.77357311
+Asia & Oceania,Dubai,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2013.0,0.13,7800.0,17196.056450430002
+Asia & Oceania,Iran (Islamic Republic of),non-member,2013.0,4.08,244800.0,539691.61782888
+Asia & Oceania,Iraq,non-member,2013.0,0.16,9600.0,21164.37716976
+Asia & Oceania,Israel,non-member,2013.0,54.23,3253800.0,7173401.08697553
+Asia & Oceania,Jordan,non-member,2013.0,76.22,4573200.0,10082180.17424442
+Asia & Oceania,Kazakhstan,non-member,2013.0,31.61,1896600.0,4181287.26460071
+Asia & Oceania,Kuwait,non-member,2013.0,1.11,66600.0,146827.86661521
+Asia & Oceania,Kyrgyzstan,non-member,2013.0,0.72,43200.0,95239.69726392
+Asia & Oceania,Lebanon,non-member,2013.0,34.04,2042400.0,4502721.24286644
+Asia & Oceania,Malaysia,non-member,2013.0,1440.01,86400600.0,190480717.30141312
+Asia & Oceania,Mongolia,non-member,2013.0,0.06,3600.0,7936.64143866
+Asia & Oceania,Myanmar,non-member,2013.0,2.02,121200.0,267200.26176822
+Asia & Oceania,New Zealand,non-member,2013.0,17.83,1069800.0,2358505.28085513
+Asia & Oceania,Oman,non-member,2013.0,1.54,92400.0,203707.13025894001
+Asia & Oceania,Pakistan,non-member,2013.0,1.14,68400.0,150796.18733454
+Asia & Oceania,Qatar,non-member,2013.0,0.55,33000.0,72752.54652105
+Asia & Oceania,Republic of Korea,non-member,2013.0,381.18,22870800.0,50421483.05980698
+Asia & Oceania,Samoa,non-member,2013.0,0.13,7800.0,17196.056450430002
+Asia & Oceania,Saudi Arabia,non-member,2013.0,48.79,2927400.0,6453812.26320369
+Asia & Oceania,Singapore,non-member,2013.0,545.12,32707200.0,72107033.01737233
+Asia & Oceania,Solomon Islands,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2013.0,20.95,1257000.0,2771210.6356654502
+Asia & Oceania,Taiwan,non-member,2013.0,72.65,4359000.0,9609950.00864415
+Asia & Oceania,Tonga,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2013.0,52.76,3165600.0,6978953.37172836
+Asia & Oceania,United Arab Emirates,non-member,2013.0,72.87,4372200.0,9639051.02725257
+Asia & Oceania,Uzbekistan,non-member,2013.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2013.0,0.04,2400.0,5291.09429244
+Caribbean,Anguilla,non-member,2013.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2013.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2013.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2013.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2013.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2013.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2013.0,0.02,1200.0,2645.54714622
+Caribbean,Netherlands Antilles (former),non-member,2013.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2013.0,6.99,419400.0,924618.72760389
+Caribbean,Saint Kitts and Nevis,non-member,2013.0,0.03,1800.0,3968.32071933
+Caribbean,Saint Lucia,non-member,2013.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2013.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2013.0,0.18,10800.0,23809.92431598
+Central America & Mexico,Bermuda,non-member,2013.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2013.0,0.56,33600.0,74075.32009416
+Europe,Albania,non-member,2013.0,3.68,220800.0,486780.67490448
+Europe,Belarus,non-member,2013.0,7.58,454800.0,1002662.36841738
+Europe,Bosnia and Herzegovina,non-member,2013.0,22.1,1326000.0,2923329.5965731
+Europe,Georgia,non-member,2013.0,2.63,157800.0,347889.44972793
+Europe,Gibraltar,non-member,2013.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2013.0,0.03,1800.0,3968.32071933
+Europe,Montenegro,non-member,2013.0,2.99,179400.0,395509.29835989
+Europe,North Macedonia,non-member,2013.0,5.2,312000.0,687842.2580172
+Europe,Republic of Moldova,non-member,2013.0,1.17,70200.0,154764.50805387
+Europe,Serbia,non-member,2013.0,16.84,1010400.0,2227550.69711724
+Europe,Ukraine,non-member,2013.0,64.74,3884399.9999999995,8563636.112314139
+Europe,USSR,non-member,2013.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2013.0,0.0,0.0,0.0
+North America,Canada,non-member,2013.0,1005.6,60336000.0,133018110.5119416
+South America,Argentina,non-member,2013.0,4.03,241800.00000000003,533077.7499633301
+South America,Chile,non-member,2013.0,46.83,2809800.0,6194548.64287413
+South America,Suriname,non-member,2013.0,0.02,1200.0,2645.54714622
+South America,Uruguay,non-member,2013.0,0.47,28200.0,62170.35793617
+Africa,Algeria,non-member,2014.0,0.01,600.0,1322.77357311
+Africa,Botswana,non-member,2014.0,0.19,11400.0,25132.69788909
+Africa,Burkina Faso,non-member,2014.0,4.01,240600.0,530432.20281711
+Africa,Cabo Verde,non-member,2014.0,0.12,7200.0,15873.28287732
+Africa,Comoros,non-member,2014.0,0.72,43200.0,95239.69726392
+Africa,Djibouti,non-member,2014.0,20.76,1245600.0,2746077.93777636
+Africa,Egypt,non-member,2014.0,129.81,7788600.0,17170923.75254091
+Africa,Eswatini,non-member,2014.0,0.27,16200.0,35714.88647397
+Africa,Gambia,non-member,2014.0,0.03,1800.0,3968.32071933
+Africa,Guinea-Bissau,non-member,2014.0,0.01,600.0,1322.77357311
+Africa,Lesotho,non-member,2014.0,0.0,0.0,0.0
+Africa,Mali,non-member,2014.0,0.07,4200.0,9259.41501177
+Africa,Mauritius,non-member,2014.0,0.33,19800.0,43651.52791263
+Africa,Morocco,non-member,2014.0,84.04,5042400.0,11116589.10841644
+Africa,Mozambique,non-member,2014.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2014.0,1.21,72600.0,160055.60234631
+Africa,Niger,non-member,2014.0,0.52,31200.0,68784.22580172001
+Africa,Sao Tome and Principe,non-member,2014.0,0.21,12600.0,27778.24503531
+Africa,Senegal,non-member,2014.0,4.67,280200.0,617735.25864237
+Africa,Seychelles,non-member,2014.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2014.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2014.0,109.83,6589800.0,14528022.15346713
+Africa,Sudan,non-member,2014.0,0.13,7800.0,17196.056450430002
+Asia & Oceania,Abu Dhabi,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2014.0,26.62,1597200.0,3521223.2516188202
+Asia & Oceania,Australia,non-member,2014.0,138.03,8281800.0,18258243.62963733
+Asia & Oceania,Azerbaijan,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2014.0,2.66,159600.0,351857.77044726
+Asia & Oceania,Bangladesh,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2014.0,0.17,10200.0,22487.15074287
+Asia & Oceania,Cambodia,non-member,2014.0,0.01,600.0,1322.77357311
+Asia & Oceania,China (Mainland),non-member,2014.0,1101.16,66069600.0,145658534.77658075
+Asia & Oceania,Hong Kong,non-member,2014.0,14.62,877200.0,1933894.96388682
+Asia & Oceania,Macao,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2014.0,0.12,7200.0,15873.28287732
+Asia & Oceania,Iran (Islamic Republic of),non-member,2014.0,5.5,330000.0,727525.4652105
+Asia & Oceania,Iraq,non-member,2014.0,0.01,600.0,1322.77357311
+Asia & Oceania,Israel,non-member,2014.0,9.29,557400.0,1228856.64941919
+Asia & Oceania,Jordan,non-member,2014.0,55.16,3309600.0,7296419.02927476
+Asia & Oceania,Kazakhstan,non-member,2014.0,35.13,2107800.0,4646903.56233543
+Asia & Oceania,Kuwait,non-member,2014.0,1.42,85200.0,187833.84738162
+Asia & Oceania,Kyrgyzstan,non-member,2014.0,0.53,31800.0,70106.99937483
+Asia & Oceania,Lebanon,non-member,2014.0,32.61,1956600.0,4313564.62191171
+Asia & Oceania,Malaysia,non-member,2014.0,1583.09,94985400.0,209406961.585471
+Asia & Oceania,Mongolia,non-member,2014.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Myanmar,non-member,2014.0,3.96,237600.0,523818.33495156
+Asia & Oceania,New Zealand,non-member,2014.0,16.3,978000.0,2156120.9241693
+Asia & Oceania,Oman,non-member,2014.0,1.7,102000.0,224871.5074287
+Asia & Oceania,Pakistan,non-member,2014.0,0.99,59400.0,130954.58373789
+Asia & Oceania,Qatar,non-member,2014.0,0.57,34200.0,75398.09366727
+Asia & Oceania,Republic of Korea,non-member,2014.0,507.85,30471000.0,67177055.91039135
+Asia & Oceania,Samoa,non-member,2014.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Saudi Arabia,non-member,2014.0,49.11,2946600.0,6496141.01754321
+Asia & Oceania,Singapore,non-member,2014.0,490.1,29406000.0,64829132.8181211
+Asia & Oceania,Solomon Islands,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2014.0,9.22,553200.0,1219597.23440742
+Asia & Oceania,Taiwan,non-member,2014.0,71.64,4298400.0,9476349.87776004
+Asia & Oceania,Tonga,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2014.0,57.29,3437400.0,7578169.80034719
+Asia & Oceania,United Arab Emirates,non-member,2014.0,144.64,8678400.0,19132596.96146304
+Asia & Oceania,Uzbekistan,non-member,2014.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2014.0,0.24,14400.0,31746.56575464
+Caribbean,Anguilla,non-member,2014.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2014.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2014.0,0.01,600.0,1322.77357311
+Caribbean,Bahamas,non-member,2014.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2014.0,0.03,1800.0,3968.32071933
+Caribbean,Dominica,non-member,2014.0,0.01,600.0,1322.77357311
+Caribbean,Grenada,non-member,2014.0,0.01,600.0,1322.77357311
+Caribbean,Netherlands Antilles (former),non-member,2014.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2014.0,6.58,394800.0,870385.01110638
+Caribbean,Saint Kitts and Nevis,non-member,2014.0,0.06,3600.0,7936.64143866
+Caribbean,Saint Lucia,non-member,2014.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2014.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2014.0,1.92,115200.0,253972.52603712
+Central America & Mexico,Bermuda,non-member,2014.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2014.0,0.34,20400.0,44974.30148574
+Europe,Albania,non-member,2014.0,0.38,22800.0,50265.39577818
+Europe,Belarus,non-member,2014.0,6.96,417600.0,920650.40688456
+Europe,Bosnia and Herzegovina,non-member,2014.0,19.41,1164600.0,2567503.50540651
+Europe,Georgia,non-member,2014.0,3.16,189600.0,417996.44910276
+Europe,Gibraltar,non-member,2014.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2014.0,0.21,12600.0,27778.24503531
+Europe,Montenegro,non-member,2014.0,2.38,142800.0,314820.11040018
+Europe,North Macedonia,non-member,2014.0,4.99,299400.0,660064.01298189
+Europe,Republic of Moldova,non-member,2014.0,0.21,12600.0,27778.24503531
+Europe,Serbia,non-member,2014.0,46.52,2791200.0,6153542.66210772
+Europe,Ukraine,non-member,2014.0,75.66,4539600.0,10008104.85415026
+Europe,USSR,non-member,2014.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2014.0,0.0,0.0,0.0
+North America,Canada,non-member,2014.0,1078.89,64733400.0,142712718.02926478
+South America,Argentina,non-member,2014.0,3.82,229200.0,505299.50492802
+South America,Chile,non-member,2014.0,53.1,3186000.0,7023927.6732141
+South America,Suriname,non-member,2014.0,0.71,42600.0,93916.92369081
+South America,Uruguay,non-member,2014.0,0.01,600.0,1322.77357311
+Africa,Algeria,non-member,2015.0,0.04,2400.0,5291.09429244
+Africa,Botswana,non-member,2015.0,0.09,5400.0,11904.96215799
+Africa,Burkina Faso,non-member,2015.0,11.86,711600.0,1568809.45770846
+Africa,Cabo Verde,non-member,2015.0,0.29,17400.0,38360.43362019
+Africa,Comoros,non-member,2015.0,0.7,42000.0,92594.1501177
+Africa,Djibouti,non-member,2015.0,36.33,2179800.0,4805636.39110863
+Africa,Egypt,non-member,2015.0,128.29,7697399.999999999,16969862.16942819
+Africa,Eswatini,non-member,2015.0,0.41,24600.0,54233.71649751
+Africa,Gambia,non-member,2015.0,0.5,30000.0,66138.6786555
+Africa,Guinea-Bissau,non-member,2015.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2015.0,0.0,0.0,0.0
+Africa,Mali,non-member,2015.0,0.16,9600.0,21164.37716976
+Africa,Mauritius,non-member,2015.0,0.17,10200.0,22487.15074287
+Africa,Morocco,non-member,2015.0,79.53,4771800.0,10520018.22694383
+Africa,Mozambique,non-member,2015.0,0.01,600.0,1322.77357311
+Africa,Namibia,non-member,2015.0,0.12,7200.0,15873.28287732
+Africa,Niger,non-member,2015.0,0.5,30000.0,66138.6786555
+Africa,Sao Tome and Principe,non-member,2015.0,0.09,5400.0,11904.96215799
+Africa,Senegal,non-member,2015.0,5.72,343200.0,756626.48381892
+Africa,Seychelles,non-member,2015.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2015.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2015.0,106.67,6400200.0,14110025.70436437
+Africa,Sudan,non-member,2015.0,0.43,25800.0,56879.26364373
+Asia & Oceania,Abu Dhabi,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2015.0,24.82,1489200.0,3283124.00845902
+Asia & Oceania,Australia,non-member,2015.0,149.31,8958600.0,19750332.22010541
+Asia & Oceania,Azerbaijan,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2015.0,5.52,331200.0,730171.01235672
+Asia & Oceania,Bangladesh,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2015.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Cambodia,non-member,2015.0,0.08,4800.0,10582.18858488
+Asia & Oceania,China (Mainland),non-member,2015.0,1091.0,65460000.0,144314596.826301
+Asia & Oceania,Hong Kong,non-member,2015.0,23.21,1392600.0,3070157.46318831
+Asia & Oceania,Macao,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Dubai,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2015.0,0.42,25200.0,55556.49007062
+Asia & Oceania,Iran (Islamic Republic of),non-member,2015.0,11.54,692400.0,1526480.70336894
+Asia & Oceania,Iraq,non-member,2015.0,0.99,59400.0,130954.58373789
+Asia & Oceania,Israel,non-member,2015.0,10.28,616800.0,1359811.23315708
+Asia & Oceania,Jordan,non-member,2015.0,38.64,2318400.0,5111197.08649704
+Asia & Oceania,Kazakhstan,non-member,2015.0,28.53,1711800.0,3773873.00408283
+Asia & Oceania,Kuwait,non-member,2015.0,5.17,310200.0,683873.93729787
+Asia & Oceania,Kyrgyzstan,non-member,2015.0,3.4,204000.0,449743.0148574
+Asia & Oceania,Lebanon,non-member,2015.0,30.47,1828200.0,4030491.07726617
+Asia & Oceania,Malaysia,non-member,2015.0,1538.78,92326800.0,203545751.88302058
+Asia & Oceania,Mongolia,non-member,2015.0,0.07,4200.0,9259.41501177
+Asia & Oceania,Myanmar,non-member,2015.0,8.39,503400.0,1109807.02783929
+Asia & Oceania,New Zealand,non-member,2015.0,18.05,1083000.0,2387606.29946355
+Asia & Oceania,Oman,non-member,2015.0,0.76,45600.0,100530.79155636
+Asia & Oceania,Pakistan,non-member,2015.0,2.24,134400.0,296301.28037664
+Asia & Oceania,Qatar,non-member,2015.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Republic of Korea,non-member,2015.0,537.78,32266800.0,71136117.21470958
+Asia & Oceania,Samoa,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2015.0,40.89,2453400.0,5408821.1404467905
+Asia & Oceania,Singapore,non-member,2015.0,371.18,22270800.0,49098709.48669698
+Asia & Oceania,Solomon Islands,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2015.0,10.38,622800.0,1373038.96888818
+Asia & Oceania,Taiwan,non-member,2015.0,96.84,5810400.0,12809739.28199724
+Asia & Oceania,Tonga,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2015.0,62.38,3742800.0,8251461.54906018
+Asia & Oceania,United Arab Emirates,non-member,2015.0,145.7,8742000.0,19272810.9602127
+Asia & Oceania,Uzbekistan,non-member,2015.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2015.0,0.24,14400.0,31746.56575464
+Caribbean,Anguilla,non-member,2015.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2015.0,0.0,0.0,0.0
+Caribbean,Aruba,non-member,2015.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2015.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2015.0,0.04,2400.0,5291.09429244
+Caribbean,Dominica,non-member,2015.0,0.29,17400.0,38360.43362019
+Caribbean,Grenada,non-member,2015.0,0.03,1800.0,3968.32071933
+Caribbean,Netherlands Antilles (former),non-member,2015.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2015.0,5.31,318600.0,702392.76732141
+Caribbean,Saint Kitts and Nevis,non-member,2015.0,0.05,3000.0,6613.86786555
+Caribbean,Saint Lucia,non-member,2015.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2015.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2015.0,3.44,206400.0,455034.10914984
+Central America & Mexico,Bermuda,non-member,2015.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2015.0,0.51,30600.0,67461.45222861
+Europe,Albania,non-member,2015.0,0.37,22200.0,48942.62220507
+Europe,Belarus,non-member,2015.0,9.83,589800.0,1300286.42236713
+Europe,Bosnia and Herzegovina,non-member,2015.0,24.64,1478400.0,3259314.0841430402
+Europe,Georgia,non-member,2015.0,7.31,438600.0,966947.48194341
+Europe,Gibraltar,non-member,2015.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2015.0,0.14,8400.0,18518.83002354
+Europe,Montenegro,non-member,2015.0,2.56,153600.0,338630.03471616
+Europe,North Macedonia,non-member,2015.0,4.9,294000.0,648159.0508239
+Europe,Republic of Moldova,non-member,2015.0,1.37,82200.0,181219.97951607002
+Europe,Serbia,non-member,2015.0,57.16,3429600.0,7560973.74389676
+Europe,Ukraine,non-member,2015.0,85.7,5142000.0,11336169.5215527
+Europe,USSR,non-member,2015.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2015.0,0.0,0.0,0.0
+North America,Canada,non-member,2015.0,1171.7,70302000.0,154989379.5612987
+South America,Argentina,non-member,2015.0,4.24,254400.0,560855.99499864
+South America,Chile,non-member,2015.0,55.62,3337200.0,7357266.61363782
+South America,Suriname,non-member,2015.0,0.83,49800.0,109790.20656813
+South America,Uruguay,non-member,2015.0,0.06,3600.0,7936.64143866
+Africa,Algeria,non-member,2016.0,0.25,15000.0,33069.33932775
+Africa,Botswana,non-member,2016.0,0.13,7800.0,17196.056450430002
+Africa,Burkina Faso,non-member,2016.0,12.9,774000.0,1706377.9093119
+Africa,Cabo Verde,non-member,2016.0,0.08,4800.0,10582.18858488
+Africa,Comoros,non-member,2016.0,0.7,42000.0,92594.1501177
+Africa,Djibouti,non-member,2016.0,42.8,2568000.0,5661470.8929108
+Africa,Egypt,non-member,2016.0,211.16,12669600.0,27931686.76979076
+Africa,Eswatini,non-member,2016.0,0.41,24600.0,54233.71649751
+Africa,Gambia,non-member,2016.0,0.04,2400.0,5291.09429244
+Africa,Guinea-Bissau,non-member,2016.0,0.01,600.0,1322.77357311
+Africa,Lesotho,non-member,2016.0,0.0,0.0,0.0
+Africa,Mali,non-member,2016.0,0.72,43200.0,95239.69726392
+Africa,Mauritius,non-member,2016.0,0.23,13800.0,30423.79218153
+Africa,Morocco,non-member,2016.0,95.6,5736000.0,12645715.3589316
+Africa,Mozambique,non-member,2016.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2016.0,0.1,6000.0,13227.7357311
+Africa,Niger,non-member,2016.0,3.07,184200.0,406091.48694477
+Africa,Sao Tome and Principe,non-member,2016.0,0.02,1200.0,2645.54714622
+Africa,Senegal,non-member,2016.0,8.71,522600.0,1152135.78217881
+Africa,Seychelles,non-member,2016.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2016.0,0.05,3000.0,6613.86786555
+Africa,South Africa,non-member,2016.0,98.0,5880000.0,12963181.016478
+Africa,Sudan,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2016.0,16.7,1002000.0,2209031.8670937
+Asia & Oceania,Australia,non-member,2016.0,177.7,10662000.0,23505686.3941647
+Asia & Oceania,Azerbaijan,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2016.0,1.64,98400.0,216934.86599004
+Asia & Oceania,Bangladesh,non-member,2016.0,0.01,600.0,1322.77357311
+Asia & Oceania,Brunei Darussalam,non-member,2016.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Cambodia,non-member,2016.0,0.09,5400.0,11904.96215799
+Asia & Oceania,China (Mainland),non-member,2016.0,1605.62,96337200.0,212387170.44568783
+Asia & Oceania,Hong Kong,non-member,2016.0,52.23,3133800.0,6908846.3723535305
+Asia & Oceania,Macao,non-member,2016.0,0.27,16200.0,35714.88647397
+Asia & Oceania,Dubai,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2016.0,0.2,12000.0,26455.4714622
+Asia & Oceania,Iran (Islamic Republic of),non-member,2016.0,4.33,259800.0,572760.95715663
+Asia & Oceania,Iraq,non-member,2016.0,0.27,16200.0,35714.88647397
+Asia & Oceania,Israel,non-member,2016.0,6.69,401400.0,884935.52041059
+Asia & Oceania,Jordan,non-member,2016.0,39.85,2391000.0,5271252.68884335
+Asia & Oceania,Kazakhstan,non-member,2016.0,26.81,1608600.0,3546355.94950791
+Asia & Oceania,Kuwait,non-member,2016.0,3.45,207000.0,456356.88272295
+Asia & Oceania,Kyrgyzstan,non-member,2016.0,3.11,186600.0,411382.58123721
+Asia & Oceania,Lebanon,non-member,2016.0,27.13,1627800.0,3588684.70384743
+Asia & Oceania,Malaysia,non-member,2016.0,1563.06,93783600.0,206757446.11853167
+Asia & Oceania,Mongolia,non-member,2016.0,0.21,12600.0,27778.24503531
+Asia & Oceania,Myanmar,non-member,2016.0,8.66,519600.0,1145521.91431326
+Asia & Oceania,New Zealand,non-member,2016.0,19.52,1171200.0,2582054.01471072
+Asia & Oceania,Oman,non-member,2016.0,3.33,199800.0,440483.59984563
+Asia & Oceania,Pakistan,non-member,2016.0,0.54,32400.0,71429.77294794
+Asia & Oceania,Qatar,non-member,2016.0,0.67,40200.0,88625.82939837
+Asia & Oceania,Republic of Korea,non-member,2016.0,558.61,33516600.0,73891454.56749772
+Asia & Oceania,Samoa,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2016.0,44.93,2695800.0,5943221.6639832305
+Asia & Oceania,Singapore,non-member,2016.0,337.42,20245200.0,44633025.90387762
+Asia & Oceania,Solomon Islands,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2016.0,16.74,1004400.0,2214322.96138614
+Asia & Oceania,Taiwan,non-member,2016.0,100.33,6019800.0,13271387.25901263
+Asia & Oceania,Tonga,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2016.0,61.07,3664200.0,8078178.21098277
+Asia & Oceania,United Arab Emirates,non-member,2016.0,349.68,20980800.0,46254746.30451048
+Asia & Oceania,Uzbekistan,non-member,2016.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2016.0,0.06,3600.0,7936.64143866
+Caribbean,Anguilla,non-member,2016.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2016.0,0.01,600.0,1322.77357311
+Caribbean,Aruba,non-member,2016.0,0.35,21000.0,46297.07505885
+Caribbean,Bahamas,non-member,2016.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2016.0,0.0,0.0,0.0
+Caribbean,Dominica,non-member,2016.0,0.16,9600.0,21164.37716976
+Caribbean,Grenada,non-member,2016.0,0.16,9600.0,21164.37716976
+Caribbean,Netherlands Antilles (former),non-member,2016.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2016.0,2.77,166200.0,366408.27975147
+Caribbean,Saint Kitts and Nevis,non-member,2016.0,0.05,3000.0,6613.86786555
+Caribbean,Saint Lucia,non-member,2016.0,0.26,15600.0,34392.112900860004
+Caribbean,Saint Vincent & the Grenadines,non-member,2016.0,0.04,2400.0,5291.09429244
+Central America & Mexico,Belize,non-member,2016.0,2.18,130800.0,288364.63893798
+Central America & Mexico,Bermuda,non-member,2016.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2016.0,0.73,43800.0,96562.47083703
+Europe,Albania,non-member,2016.0,0.65,39000.0,85980.28225215
+Europe,Belarus,non-member,2016.0,18.41,1104600.0,2435226.14809551
+Europe,Bosnia and Herzegovina,non-member,2016.0,23.15,1389000.0,3062220.82174965
+Europe,Georgia,non-member,2016.0,0.87,52200.0,115081.30086057
+Europe,Gibraltar,non-member,2016.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2016.0,0.19,11400.0,25132.69788909
+Europe,Montenegro,non-member,2016.0,2.41,144600.0,318788.43111951003
+Europe,North Macedonia,non-member,2016.0,8.3,498000.0,1097902.0656813001
+Europe,Republic of Moldova,non-member,2016.0,0.22,13200.0,29101.01860842
+Europe,Serbia,non-member,2016.0,62.7,3762000.0,8293790.3033997
+Europe,Ukraine,non-member,2016.0,41.78,2506800.0,5526547.98845358
+Europe,USSR,non-member,2016.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2016.0,0.0,0.0,0.0
+North America,Canada,non-member,2016.0,1250.66,75039600.0,165433999.69457525
+South America,Argentina,non-member,2016.0,4.34,260400.0,574083.73072974
+South America,Chile,non-member,2016.0,30.34,1820400.0,4013295.02081574
+South America,Suriname,non-member,2016.0,0.31,18600.0,41005.98076641
+South America,Uruguay,non-member,2016.0,0.0,0.0,0.0
+Africa,Algeria,non-member,2017.0,0.25,15000.0,33069.33932775
+Africa,Botswana,non-member,2017.0,0.72,43200.0,95239.69726392
+Africa,Burkina Faso,non-member,2017.0,41.38,2482800.0,5473637.04552918
+Africa,Cabo Verde,non-member,2017.0,0.21,12600.0,27778.24503531
+Africa,Comoros,non-member,2017.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2017.0,0.0,0.0,0.0
+Africa,Egypt,non-member,2017.0,60.96,3657600.0,8063627.70167856
+Africa,Eswatini,non-member,2017.0,0.09,5400.0,11904.96215799
+Africa,Gambia,non-member,2017.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2017.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2017.0,0.11,6600.0,14550.50930421
+Africa,Mali,non-member,2017.0,1.07,64200.0,141536.77232277
+Africa,Mauritius,non-member,2017.0,0.35,21000.0,46297.07505885
+Africa,Morocco,non-member,2017.0,105.8,6348000.0,13994944.4035038
+Africa,Mozambique,non-member,2017.0,0.05,3000.0,6613.86786555
+Africa,Namibia,non-member,2017.0,0.13,7800.0,17196.056450430002
+Africa,Niger,non-member,2017.0,4.05,243000.0,535723.29710955
+Africa,Sao Tome and Principe,non-member,2017.0,0.1,6000.0,13227.7357311
+Africa,Senegal,non-member,2017.0,8.33,499800.0,1101870.38640063
+Africa,Seychelles,non-member,2017.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2017.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2017.0,108.11,6486600.0,14300505.09889221
+Africa,Sudan,non-member,2017.0,0.1,6000.0,13227.7357311
+Asia & Oceania,Abu Dhabi,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2017.0,20.97,1258200.0,2773856.18281167
+Asia & Oceania,Australia,non-member,2017.0,183.42,11005200.0,24262312.87798362
+Asia & Oceania,Azerbaijan,non-member,2017.0,0.17,10200.0,22487.15074287
+Asia & Oceania,Bahrain,non-member,2017.0,1.94,116400.0,256618.07318334
+Asia & Oceania,Bangladesh,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Cambodia,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2017.0,1306.3,78378000.0,172793911.85535932
+Asia & Oceania,Hong Kong,non-member,2017.0,111.55,6693000.0,14755539.20804205
+Asia & Oceania,Macao,non-member,2017.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Dubai,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2017.0,0.32,19200.0,42328.75433952
+Asia & Oceania,Iran (Islamic Republic of),non-member,2017.0,2.35,141000.0,310851.78968085
+Asia & Oceania,Iraq,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2017.0,11.88,712800.0,1571455.00485468
+Asia & Oceania,Jordan,non-member,2017.0,36.1,2166000.0,4775212.5989271
+Asia & Oceania,Kazakhstan,non-member,2017.0,35.19,2111400.0,4654840.20377409
+Asia & Oceania,Kuwait,non-member,2017.0,13.83,829800.0,1829395.85161113
+Asia & Oceania,Kyrgyzstan,non-member,2017.0,2.49,149400.0,329370.61970439
+Asia & Oceania,Lebanon,non-member,2017.0,28.51,1710600.0,3771227.45693661
+Asia & Oceania,Malaysia,non-member,2017.0,1945.42,116725200.0,257335016.45996562
+Asia & Oceania,Mongolia,non-member,2017.0,0.25,15000.0,33069.33932775
+Asia & Oceania,Myanmar,non-member,2017.0,26.68,1600800.0,3529159.89305748
+Asia & Oceania,New Zealand,non-member,2017.0,12.59,755400.0,1665371.92854549
+Asia & Oceania,Oman,non-member,2017.0,17.35,1041000.0,2295012.14934585
+Asia & Oceania,Pakistan,non-member,2017.0,14.97,898200.0,1980192.03894567
+Asia & Oceania,Qatar,non-member,2017.0,0.86,51600.0,113758.52728746
+Asia & Oceania,Republic of Korea,non-member,2017.0,546.18,32770800.0,72247247.01612198
+Asia & Oceania,Samoa,non-member,2017.0,0.01,600.0,1322.77357311
+Asia & Oceania,Saudi Arabia,non-member,2017.0,67.48,4048800.0,8926076.07134628
+Asia & Oceania,Singapore,non-member,2017.0,353.17,21190200.0,46716394.28152587
+Asia & Oceania,Solomon Islands,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Taiwan,non-member,2017.0,99.52,5971200.0,13164242.59959072
+Asia & Oceania,Tonga,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2017.0,81.69,4901400.0,10805737.31873559
+Asia & Oceania,United Arab Emirates,non-member,2017.0,412.06,24723600.0,54506207.85357066
+Asia & Oceania,Uzbekistan,non-member,2017.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2017.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2017.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2017.0,0.03,1800.0,3968.32071933
+Caribbean,Aruba,non-member,2017.0,0.77,46200.0,101853.56512947001
+Caribbean,Bahamas,non-member,2017.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2017.0,0.03,1800.0,3968.32071933
+Caribbean,Dominica,non-member,2017.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2017.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2017.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2017.0,0.17,10200.0,22487.15074287
+Caribbean,Saint Kitts and Nevis,non-member,2017.0,2.34,140400.0,309529.01610774
+Caribbean,Saint Lucia,non-member,2017.0,0.1,6000.0,13227.7357311
+Caribbean,Saint Vincent & the Grenadines,non-member,2017.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2017.0,0.0,0.0,0.0
+Central America & Mexico,Bermuda,non-member,2017.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2017.0,0.56,33600.0,74075.32009416
+Europe,Albania,non-member,2017.0,1.78,106800.0,235453.69601358
+Europe,Belarus,non-member,2017.0,39.75,2385000.0,5258024.95311225
+Europe,Bosnia and Herzegovina,non-member,2017.0,20.57,1234200.0,2720945.23988727
+Europe,Georgia,non-member,2017.0,2.91,174600.0,384927.10977501003
+Europe,Gibraltar,non-member,2017.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2017.0,0.12,7200.0,15873.28287732
+Europe,Montenegro,non-member,2017.0,1.79,107400.0,236776.46958669001
+Europe,North Macedonia,non-member,2017.0,5.97,358200.0,789695.82314667
+Europe,Republic of Moldova,non-member,2017.0,0.24,14400.0,31746.56575464
+Europe,Serbia,non-member,2017.0,59.13,3547800.0,7821560.13779943
+Europe,Ukraine,non-member,2017.0,34.23,2053800.0,4527853.94075553
+Europe,USSR,non-member,2017.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2017.0,0.0,0.0,0.0
+North America,Canada,non-member,2017.0,1261.4,75684000.0,166854658.5120954
+South America,Argentina,non-member,2017.0,5.23,313800.0,691810.57873653
+South America,Chile,non-member,2017.0,22.53,1351800.0,2980208.86021683
+South America,Suriname,non-member,2017.0,1.33,79800.0,175928.88522363
+South America,Uruguay,non-member,2017.0,0.07,4200.0,9259.41501177
+Africa,Algeria,non-member,2018.0,0.48,28800.0,63493.13150928
+Africa,Botswana,non-member,2018.0,0.56,33600.0,74075.32009416
+Africa,Burkina Faso,non-member,2018.0,17.26,1035600.0,2283107.18718786
+Africa,Cabo Verde,non-member,2018.0,0.02,1200.0,2645.54714622
+Africa,Comoros,non-member,2018.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2018.0,0.0,0.0,0.0
+Africa,Egypt,non-member,2018.0,49.18,2950800.0,6505400.43255498
+Africa,Eswatini,non-member,2018.0,0.0,0.0,0.0
+Africa,Gambia,non-member,2018.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2018.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2018.0,0.0,0.0,0.0
+Africa,Mali,non-member,2018.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2018.0,0.23,13800.0,30423.79218153
+Africa,Morocco,non-member,2018.0,129.75,7785000.0,17162987.11110225
+Africa,Mozambique,non-member,2018.0,0.02,1200.0,2645.54714622
+Africa,Namibia,non-member,2018.0,0.01,600.0,1322.77357311
+Africa,Niger,non-member,2018.0,3.43,205800.0,453711.33557673
+Africa,Sao Tome and Principe,non-member,2018.0,0.01,600.0,1322.77357311
+Africa,Senegal,non-member,2018.0,2.88,172800.0,380958.78905568
+Africa,Seychelles,non-member,2018.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2018.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2018.0,106.18,6370800.0,14045209.79928198
+Africa,Sudan,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2018.0,17.1,1026000.0,2261942.8100181
+Asia & Oceania,Australia,non-member,2018.0,230.95,13857000.0,30549455.67097545
+Asia & Oceania,Azerbaijan,non-member,2018.0,0.03,1800.0,3968.32071933
+Asia & Oceania,Bahrain,non-member,2018.0,8.12,487199.99999999994,1074092.14136532
+Asia & Oceania,Bangladesh,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2018.0,0.04,2400.0,5291.09429244
+Asia & Oceania,Cambodia,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2018.0,1752.13,105127800.0,231767126.06532243
+Asia & Oceania,Hong Kong,non-member,2018.0,215.58,12934800.0,28516352.68910538
+Asia & Oceania,Macao,non-member,2018.0,5.75,345000.0,760594.80453825
+Asia & Oceania,Dubai,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2018.0,0.29,17400.0,38360.43362019
+Asia & Oceania,Iran (Islamic Republic of),non-member,2018.0,1.75,105000.0,231485.37529425
+Asia & Oceania,Iraq,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2018.0,14.0,840000.0,1851883.002354
+Asia & Oceania,Jordan,non-member,2018.0,23.39,1403400.0,3093967.38750429
+Asia & Oceania,Kazakhstan,non-member,2018.0,29.86,1791600.0,3949801.88930646
+Asia & Oceania,Kuwait,non-member,2018.0,14.23,853800.0,1882306.79453553
+Asia & Oceania,Kyrgyzstan,non-member,2018.0,0.18,10800.0,23809.92431598
+Asia & Oceania,Lebanon,non-member,2018.0,33.13,1987800.0,4382348.84771343
+Asia & Oceania,Malaysia,non-member,2018.0,2347.12,140827200.0,310470830.8917943
+Asia & Oceania,Mongolia,non-member,2018.0,0.09,5400.0,11904.96215799
+Asia & Oceania,Myanmar,non-member,2018.0,50.89,3053400.0,6731594.71355679
+Asia & Oceania,New Zealand,non-member,2018.0,13.63,817800.0,1802940.38014893
+Asia & Oceania,Oman,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Pakistan,non-member,2018.0,0.84,50400.0,111112.98014124
+Asia & Oceania,Qatar,non-member,2018.0,0.15,9000.0,19841.60359665
+Asia & Oceania,Republic of Korea,non-member,2018.0,519.58,31174800.000000004,68728669.31164938
+Asia & Oceania,Samoa,non-member,2018.0,1.05,63000.0,138891.22517655
+Asia & Oceania,Saudi Arabia,non-member,2018.0,34.45,2067000.0,4556954.95936395
+Asia & Oceania,Singapore,non-member,2018.0,406.93,24415800.0,53827625.01056523
+Asia & Oceania,Solomon Islands,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Taiwan,non-member,2018.0,119.52,7171200.0,15809789.745810721
+Asia & Oceania,Tonga,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2018.0,93.75,5625000.0,12401002.24790625
+Asia & Oceania,United Arab Emirates,non-member,2018.0,1151.51,69090600.0,152318699.7171896
+Asia & Oceania,Uzbekistan,non-member,2018.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2018.0,0.21,12600.0,27778.24503531
+Caribbean,Aruba,non-member,2018.0,0.03,1800.0,3968.32071933
+Caribbean,Bahamas,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2018.0,0.02,1200.0,2645.54714622
+Caribbean,Dominica,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2018.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2018.0,0.64,38400.0,84657.50867904
+Caribbean,Saint Kitts and Nevis,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2018.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2018.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2018.0,0.01,600.0,1322.77357311
+Central America & Mexico,Bermuda,non-member,2018.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2018.0,0.0,0.0,0.0
+Europe,Albania,non-member,2018.0,0.26,15600.0,34392.112900860004
+Europe,Belarus,non-member,2018.0,57.11,3426600.0,7554359.87603121
+Europe,Bosnia and Herzegovina,non-member,2018.0,21.75,1305000.0,2877032.52151425
+Europe,Georgia,non-member,2018.0,1.55,93000.0,205029.90383205
+Europe,Gibraltar,non-member,2018.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2018.0,0.03,1800.0,3968.32071933
+Europe,Montenegro,non-member,2018.0,0.03,1800.0,3968.32071933
+Europe,North Macedonia,non-member,2018.0,7.17,430200.0,948428.65191987
+Europe,Republic of Moldova,non-member,2018.0,0.38,22800.0,50265.39577818
+Europe,Serbia,non-member,2018.0,16.64,998400.0,2201095.2256550402
+Europe,Ukraine,non-member,2018.0,39.45,2367000.0,5218341.74591895
+Europe,USSR,non-member,2018.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2018.0,0.0,0.0,0.0
+North America,Canada,non-member,2018.0,1287.94,77276400.0,170365299.57512933
+South America,Argentina,non-member,2018.0,1.13,67800.0,149473.41376143
+South America,Chile,non-member,2018.0,19.81,1188600.0,2620414.44833091
+South America,Suriname,non-member,2018.0,0.06,3600.0,7936.64143866
+South America,Uruguay,non-member,2018.0,0.79,47400.0,104499.11227569
+Africa,Algeria,non-member,2019.0,0.0,0.0,0.0
+Africa,Botswana,non-member,2019.0,0.0,0.0,0.0
+Africa,Burkina Faso,non-member,2019.0,0.0,0.0,0.0
+Africa,Cabo Verde,non-member,2019.0,0.0,0.0,0.0
+Africa,Comoros,non-member,2019.0,0.0,0.0,0.0
+Africa,Djibouti,non-member,2019.0,0.0,0.0,0.0
+Africa,Egypt,non-member,2019.0,0.0,0.0,0.0
+Africa,Eswatini,non-member,2019.0,0.26,15600.0,34392.112900860004
+Africa,Gambia,non-member,2019.0,0.0,0.0,0.0
+Africa,Guinea-Bissau,non-member,2019.0,0.0,0.0,0.0
+Africa,Lesotho,non-member,2019.0,0.0,0.0,0.0
+Africa,Mali,non-member,2019.0,0.0,0.0,0.0
+Africa,Mauritius,non-member,2019.0,0.25,15000.0,33069.33932775
+Africa,Morocco,non-member,2019.0,130.15,7809000.0,17215898.05402665
+Africa,Mozambique,non-member,2019.0,0.0,0.0,0.0
+Africa,Namibia,non-member,2019.0,0.0,0.0,0.0
+Africa,Niger,non-member,2019.0,0.84,50400.0,111112.98014124
+Africa,Sao Tome and Principe,non-member,2019.0,0.02,1200.0,2645.54714622
+Africa,Senegal,non-member,2019.0,3.02,181200.0,399477.61907922
+Africa,Seychelles,non-member,2019.0,0.0,0.0,0.0
+Africa,Somalia,non-member,2019.0,0.0,0.0,0.0
+Africa,South Africa,non-member,2019.0,102.13,6127800.0,13509486.502172431
+Africa,Sudan,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Abu Dhabi,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Armenia,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Australia,non-member,2019.0,177.15,10629000.0,23432933.84764365
+Asia & Oceania,Azerbaijan,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Bahrain,non-member,2019.0,1.62,97200.0,214289.31884382002
+Asia & Oceania,Bangladesh,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Brunei Darussalam,non-member,2019.0,0.02,1200.0,2645.54714622
+Asia & Oceania,Cambodia,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,China (Mainland),non-member,2019.0,1287.0,77220000.0,170240958.859257
+Asia & Oceania,Hong Kong,non-member,2019.0,88.36,5301600.0,11688027.29199996
+Asia & Oceania,Macao,non-member,2019.0,0.05,3000.0,6613.86786555
+Asia & Oceania,Dubai,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Fiji,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Iran (Islamic Republic of),non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Iraq,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Israel,non-member,2019.0,14.82,889200.0,1960350.43534902
+Asia & Oceania,Jordan,non-member,2019.0,38.73,2323800.0,5123102.04865503
+Asia & Oceania,Kazakhstan,non-member,2019.0,22.72,1363200.0,3005341.55810592
+Asia & Oceania,Kuwait,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Kyrgyzstan,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Lebanon,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Malaysia,non-member,2019.0,2048.51,122910600.00000001,270971489.22515666
+Asia & Oceania,Mongolia,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Myanmar,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,New Zealand,non-member,2019.0,14.9,894000.0,1970932.6239339
+Asia & Oceania,Oman,non-member,2019.0,15.77,946200.0,2086013.92479447
+Asia & Oceania,Pakistan,non-member,2019.0,0.53,31800.0,70106.99937483
+Asia & Oceania,Qatar,non-member,2019.0,0.88,52800.0,116404.07443368
+Asia & Oceania,Republic of Korea,non-member,2019.0,625.2,37512000.0,82699803.7908372
+Asia & Oceania,Samoa,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Saudi Arabia,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Singapore,non-member,2019.0,371.7,22302000.0,49167493.7124987
+Asia & Oceania,Solomon Islands,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Syrian Arab Republic,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Taiwan,non-member,2019.0,120.35,7221000.0,15919579.95237885
+Asia & Oceania,Tonga,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Turkey,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,United Arab Emirates,non-member,2019.0,1130.53,67831800.0,149543520.76080483
+Asia & Oceania,Uzbekistan,non-member,2019.0,0.0,0.0,0.0
+Asia & Oceania,Vanuatu,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Anguilla,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Antigua and Barbuda,non-member,2019.0,0.03,1800.0,3968.32071933
+Caribbean,Aruba,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Bahamas,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Barbados,non-member,2019.0,0.05,3000.0,6613.86786555
+Caribbean,Dominica,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Grenada,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Netherlands Antilles (former),non-member,2019.0,0.0,0.0,0.0
+Caribbean,Puerto Rico,non-member,2019.0,1.96,117600.0,259263.62032956
+Caribbean,Saint Kitts and Nevis,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Saint Lucia,non-member,2019.0,0.0,0.0,0.0
+Caribbean,Saint Vincent & the Grenadines,non-member,2019.0,0.0,0.0,0.0
+Central America & Mexico,Belize,non-member,2019.0,0.01,600.0,1322.77357311
+Central America & Mexico,Bermuda,non-member,2019.0,0.0,0.0,0.0
+Central America & Mexico,Curaçao,non-member,2019.0,0.0,0.0,0.0
+Europe,Albania,non-member,2019.0,2.41,144600.0,318788.43111951003
+Europe,Belarus,non-member,2019.0,0.0,0.0,0.0
+Europe,Bosnia and Herzegovina,non-member,2019.0,25.2,1512000.0,3333389.4042372
+Europe,Georgia,non-member,2019.0,0.0,0.0,0.0
+Europe,Gibraltar,non-member,2019.0,0.0,0.0,0.0
+Europe,Iceland,non-member,2019.0,0.02,1200.0,2645.54714622
+Europe,Montenegro,non-member,2019.0,0.0,0.0,0.0
+Europe,North Macedonia,non-member,2019.0,0.0,0.0,0.0
+Europe,Republic of Moldova,non-member,2019.0,0.6,36000.0,79366.4143866
+Europe,Serbia,non-member,2019.0,21.34,1280400.0,2822798.80501674
+Europe,Ukraine,non-member,2019.0,51.79,3107400.0,6850644.33513669
+Europe,USSR,non-member,2019.0,0.0,0.0,0.0
+Europe,Yugoslavia SFR,non-member,2019.0,0.0,0.0,0.0
+North America,Canada,non-member,2019.0,1336.35,80181000.0,176768846.44255486
+South America,Argentina,non-member,2019.0,3.4,204000.0,449743.0148574
+South America,Chile,non-member,2019.0,18.94,1136400.0,2505333.14747034
+South America,Suriname,non-member,2019.0,0.64,38400.0,84657.50867904
+South America,Uruguay,non-member,2019.0,1.04,62400.0,137568.45160344001

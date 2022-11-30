@@ -1,4 +1,4 @@
-coffee_market_analysis
+Coffee Market Analysis
 ==============================
 
 Data manipulation and Tableau analysis of coffee market data from the International Coffee Organization.
@@ -14,8 +14,6 @@ Project Organization
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
