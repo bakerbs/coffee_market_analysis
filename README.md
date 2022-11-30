@@ -1,7 +1,7 @@
 Coffee Market Analysis
 ==============================
 
-Data manipulation and Tableau analysis of coffee market data from the International Coffee Organization.
+Data manipulation scripts to support Tableau analysis of coffee market data from the International Coffee Organization.
 
 Project Organization
 ------------
