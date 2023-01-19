@@ -3,7 +3,7 @@ Coffee Market Analysis
 
 Data manipulation scripts to support my <a target="_blank" href="https://public.tableau.com/views/GlobalCoffeeProduction/Coffee?:language=en-US&:display_count=n&:origin=viz_share_link">Tableau vizualization</a> of coffee market data from the <a target="_blank" href="https://ico.org">International Coffee Organization.</a>
 
-The /src folder within this repo contains two python scripts: 
+The `/src/data` folder within this repo contains two python scripts: 
 1. `etl_functions.py` contains functions that reshape and manipulate excel data. 
 2. `make_dataset.py` utilizes the functions in `etl_functions.py` to transform the raw excel spreadsheet data into a tidy format for use in Tableau.
 
